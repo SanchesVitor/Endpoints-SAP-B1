@@ -1,0 +1,173 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Attachments2",
+  "value": [
+    {
+      "AbsoluteEntry": 2,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 2,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnqa10\\SBO_SHARE\\Attachments\\1",
+          "FileName": "35230548662175000352550010000009021241579946",
+          "FileExtension": "xml",
+          "AttachmentDate": "2023-05-09T00:00:00Z",
+          "Override": "tYES",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 3,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 3,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnqa10\\SBO_SHARE\\Attachments\\1",
+          "FileName": "35230548662175000352550010000009021241579946",
+          "FileExtension": "xml",
+          "AttachmentDate": "2023-05-09T00:00:00Z",
+          "Override": "tYES",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 4,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 4,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnqa10\\SBO_SHARE\\Attachments\\1\\processados",
+          "FileName": "35230348662175000352550010000004001255557371",
+          "FileExtension": "xml",
+          "AttachmentDate": "2023-05-17T00:00:00Z",
+          "Override": "tYES",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 5,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 5,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnqa10\\SBO_SHARE\\Attachments\\1",
+          "FileName": "35230548662175000352550010000009041933186474",
+          "FileExtension": "xml",
+          "AttachmentDate": "2023-05-17T00:00:00Z",
+          "Override": "tYES",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 6,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 6,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnprd10\\SBO_SHARE\\Attachments",
+          "FileName": "Lista de itens em aberto_20230718",
+          "FileExtension": "pdf",
+          "AttachmentDate": "2023-07-18T00:00:00Z",
+          "Override": "tNO",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 7,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 7,
+          "LineNum": 1,
+          "SourcePath": "\\\\tsclient\\C",
+          "FileName": "OBPL - BusinessPlaces1",
+          "FileExtension": "txt",
+          "AttachmentDate": "2023-07-31T00:00:00Z",
+          "Override": "tYES",
+          "FreeText": "Arquivo de Venda",
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 8,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 8,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnprd10\\SBO_SHARE\\Attachments",
+          "FileName": "OBPL - BusinessPlaces1",
+          "FileExtension": "txt",
+          "AttachmentDate": "2023-07-31T00:00:00Z",
+          "Override": "tNO",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    },
+    {
+      "AbsoluteEntry": 9,
+      "Attachments2_Lines": [
+        {
+          "AbsoluteEntry": 9,
+          "LineNum": 1,
+          "SourcePath": "\\\\saphacplnprd10\\SBO_SHARE\\Attachments",
+          "FileName": "OBPL - BusinessPlaces1",
+          "FileExtension": "txt",
+          "AttachmentDate": "2023-07-31T00:00:00Z",
+          "Override": "tNO",
+          "FreeText": null,
+          "CopyToTargetDoc": "tNO",
+          "CopyToProductionOrder": "tNO",
+          "U_LbrAmfsDataInicial": null,
+          "U_LbrAmfsDataFinal": null,
+          "U_LbrAmfsStatusDocumento": null,
+          "U_LbrAmfsTipoAprovacaoDoc": null
+        }
+      ]
+    }
+  ]
+}

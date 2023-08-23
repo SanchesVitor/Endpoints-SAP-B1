@@ -1,0 +1,44 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#AttributeGroups",
+  "value": [
+    {
+      "Code": -1,
+      "Name": "Default Attribute Group",
+      "Locked": "tYES",
+      "AttributeGroupCollection": [
+        {
+          "Code": -1,
+          "SortNumber": 1,
+          "AttributeID": 1,
+          "AttributeName": "Remark 1",
+          "FieldType": "agftText",
+          "DefaultValue": null
+        },
+        {
+          "Code": -1,
+          "SortNumber": 2,
+          "AttributeID": 2,
+          "AttributeName": "Remark 2",
+          "FieldType": "agftText",
+          "DefaultValue": null
+        },
+        {
+          "Code": -1,
+          "SortNumber": 3,
+          "AttributeID": 48,
+          "AttributeName": "Amount 1",
+          "FieldType": "agftAmount",
+          "DefaultValue": null
+        },
+        {
+          "Code": -1,
+          "SortNumber": 4,
+          "AttributeID": 49,
+          "AttributeName": "Amount 2",
+          "FieldType": "agftAmount",
+          "DefaultValue": null
+        }
+      ]
+    }
+  ]
+}
