@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BrazilStringIndexers",
+  "value": [
+    {
+      "IndexerType": "bsitCreditContributionOrigin",
+      "Code": "1",
+      "Description": "Apuração com base nos registros de consolidação das operações por NF-e (C180 e C190) e por ECF (C490)",
+      "ID": 1
+    },
+    {
+      "IndexerType": "bsitCreditContributionOrigin",
+      "Code": "2",
+      "Description": "Apuração com base no registro individualizado de NF-e (C100 e C170) e ECF (C400)",
+      "ID": 2
+    },
+    {
+      "IndexerType": "bsitIPIPeriod",
+      "Code": "0",
+      "Description": "Mensal",
+      "ID": 3
+    },
+    {
+      "IndexerType": "bsitIPIPeriod",
+      "Code": "1",
+      "Description": "Decendial",
+      "ID": 4
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "01",
+      "Description": "Aquisição de bens para revenda",
+      "ID": 5
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "02",
+      "Description": "Aquisição de bens utilizados como insumo",
+      "ID": 6
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "03",
+      "Description": "Aquisição de serviços utilizados como insumo",
+      "ID": 7
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "04",
+      "Description": "Energia elétrica e térmica, inclusive sob a forma de vapor",
+      "ID": 8
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "05",
+      "Description": "Aluguéis de prédios",
+      "ID": 9
+    },
+    {
+      "IndexerType": "bsitNatureOfCalculationBase",
+      "Code": "06",
+      "Description": "Aluguéis de máquinas e equipamentos",
+      "ID": 10
+    }
+  ]
+}

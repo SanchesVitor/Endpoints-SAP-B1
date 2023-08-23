@@ -1,0 +1,117 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BinLocationFields",
+  "value": [
+    {
+      "AbsEntry": 1,
+      "FieldType": "blftWarehouseSublevel",
+      "FieldNumber": 1,
+      "Name": "Subnível 1",
+      "Activated": "tYES",
+      "DefaultFieldName": "Subnível 1"
+    },
+    {
+      "AbsEntry": 2,
+      "FieldType": "blftWarehouseSublevel",
+      "FieldNumber": 2,
+      "Name": "Subnível 2",
+      "Activated": "tYES",
+      "DefaultFieldName": "Subnível 2"
+    },
+    {
+      "AbsEntry": 3,
+      "FieldType": "blftWarehouseSublevel",
+      "FieldNumber": 3,
+      "Name": "Subnível 3",
+      "Activated": "tYES",
+      "DefaultFieldName": "Subnível 3"
+    },
+    {
+      "AbsEntry": 4,
+      "FieldType": "blftWarehouseSublevel",
+      "FieldNumber": 4,
+      "Name": "Subnível 4",
+      "Activated": "tYES",
+      "DefaultFieldName": "Subnível 4"
+    },
+    {
+      "AbsEntry": 5,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 1,
+      "Name": "Atributo 1",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 1"
+    },
+    {
+      "AbsEntry": 6,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 2,
+      "Name": "Atributo 2",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 2"
+    },
+    {
+      "AbsEntry": 7,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 3,
+      "Name": "Atributo 3",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 3"
+    },
+    {
+      "AbsEntry": 8,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 4,
+      "Name": "Atributo 4",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 4"
+    },
+    {
+      "AbsEntry": 9,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 5,
+      "Name": "Atributo 5",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 5"
+    },
+    {
+      "AbsEntry": 10,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 6,
+      "Name": "Atributo 6",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 6"
+    },
+    {
+      "AbsEntry": 11,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 7,
+      "Name": "Atributo 7",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 7"
+    },
+    {
+      "AbsEntry": 12,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 8,
+      "Name": "Atributo",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo"
+    },
+    {
+      "AbsEntry": 13,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 9,
+      "Name": "Atributo 9",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 9"
+    },
+    {
+      "AbsEntry": 14,
+      "FieldType": "blftBinLocationAttribute",
+      "FieldNumber": 10,
+      "Name": "Atributo 10",
+      "Activated": "tNO",
+      "DefaultFieldName": "Atributo 10"
+    }
+  ]
+}

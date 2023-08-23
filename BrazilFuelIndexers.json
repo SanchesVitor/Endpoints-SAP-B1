@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BrazilFuelIndexers",
+  "value": [
+    {
+      "FuelID": 1,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101001",
+      "Description": "ALBACORA"
+    },
+    {
+      "FuelID": 2,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101002",
+      "Description": "ANEQUIM"
+    },
+    {
+      "FuelID": 3,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101003",
+      "Description": "BADEJO"
+    },
+    {
+      "FuelID": 4,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101004",
+      "Description": "BAGRE"
+    },
+    {
+      "FuelID": 5,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101005",
+      "Description": "BARRACUDA"
+    },
+    {
+      "FuelID": 6,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101006",
+      "Description": "BICUDO"
+    },
+    {
+      "FuelID": 7,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101007",
+      "Description": "BIJUPIRÁ"
+    },
+    {
+      "FuelID": 8,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101008",
+      "Description": "BONITO"
+    },
+    {
+      "FuelID": 9,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101009",
+      "Description": "CABIÚNAS MISTURA"
+    },
+    {
+      "FuelID": 10,
+      "FuelGroupCode": 28,
+      "FuelCode": "110101010",
+      "Description": "CARAPEBA"
+    }
+  ]
+}

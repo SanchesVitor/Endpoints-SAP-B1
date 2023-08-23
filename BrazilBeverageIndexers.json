@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BrazilBeverageIndexers",
+  "value": [
+    {
+      "BeverageGroupCode": "13",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 5,
+      "BeverageID": 1
+    },
+    {
+      "BeverageGroupCode": "19",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 6,
+      "BeverageID": 2
+    },
+    {
+      "BeverageGroupCode": "16",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 8,
+      "BeverageID": 3
+    },
+    {
+      "BeverageGroupCode": "10",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 10,
+      "BeverageID": 4
+    },
+    {
+      "BeverageGroupCode": "10",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 11,
+      "BeverageID": 5
+    },
+    {
+      "BeverageGroupCode": "17",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 17,
+      "BeverageID": 6
+    },
+    {
+      "BeverageGroupCode": "27",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 18,
+      "BeverageID": 7
+    },
+    {
+      "BeverageGroupCode": "26",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 19,
+      "BeverageID": 8
+    },
+    {
+      "BeverageGroupCode": "20",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 21,
+      "BeverageID": 9
+    },
+    {
+      "BeverageGroupCode": "16",
+      "BeverageTableCode": "03",
+      "BeverageCommercialBrandCode": 22,
+      "BeverageID": 10
+    }
+  ]
+}

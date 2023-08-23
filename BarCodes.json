@@ -1,0 +1,75 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BarCodes",
+  "value": [
+    {
+      "AbsEntry": 21897,
+      "ItemNo": "LO000000014",
+      "UoMEntry": -1,
+      "Barcode": "7893537001960",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 23628,
+      "ItemNo": "LO000004575",
+      "UoMEntry": -1,
+      "Barcode": "7898526550771",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 29249,
+      "ItemNo": "LO000004514",
+      "UoMEntry": -1,
+      "Barcode": "7893946150907",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21703,
+      "ItemNo": "IN000000006",
+      "UoMEntry": -1,
+      "Barcode": "7898312162973",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21704,
+      "ItemNo": "IN000000007",
+      "UoMEntry": -1,
+      "Barcode": "7898312162980",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21705,
+      "ItemNo": "IN000000009",
+      "UoMEntry": -1,
+      "Barcode": "7898312162485",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21706,
+      "ItemNo": "IN000000012",
+      "UoMEntry": -1,
+      "Barcode": "7896500406458",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21707,
+      "ItemNo": "IN000000018",
+      "UoMEntry": -1,
+      "Barcode": "7898312163390",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21708,
+      "ItemNo": "IN000000030",
+      "UoMEntry": -1,
+      "Barcode": "7891260501771",
+      "FreeText": null
+    },
+    {
+      "AbsEntry": 21709,
+      "ItemNo": "IN000000034",
+      "UoMEntry": -1,
+      "Barcode": "7898312163499",
+      "FreeText": null
+    }
+  ]
+}

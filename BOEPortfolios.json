@@ -1,0 +1,19 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BOEPortfolios",
+  "value": [
+    {
+      "PortfolioEntry": 1,
+      "PortfolioID": "01",
+      "PortfolioCode": "01",
+      "PortfolioNum": "09",
+      "PortfolioDescription": "09"
+    },
+    {
+      "PortfolioEntry": 2,
+      "PortfolioID": "212",
+      "PortfolioCode": "01",
+      "PortfolioNum": "212",
+      "PortfolioDescription": "212"
+    }
+  ]
+}

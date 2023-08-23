@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BrazilNumericIndexers",
+  "value": [
+    {
+      "IndexerType": "bnitNatureOfCompany",
+      "Code": 0,
+      "Description": "Sociedade empresária em geral",
+      "ID": 1
+    },
+    {
+      "IndexerType": "bnitNatureOfCompany",
+      "Code": 1,
+      "Description": "Sociedade cooperativa",
+      "ID": 2
+    },
+    {
+      "IndexerType": "bnitNatureOfCompany",
+      "Code": 2,
+      "Description": "Entidade sujeita ao PIS/Pasep exclusivamente com base na Folha de Salários",
+      "ID": 3
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 0,
+      "Description": "Industrial ou equiparado a industrial",
+      "ID": 4
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 1,
+      "Description": "Prestador de serviços",
+      "ID": 5
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 2,
+      "Description": "Atividade de comércio",
+      "ID": 6
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 3,
+      "Description": "Atividade financeira",
+      "ID": 7
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 4,
+      "Description": "Atividade imobiliária",
+      "ID": 8
+    },
+    {
+      "IndexerType": "bnitEconomicActivityType",
+      "Code": 9,
+      "Description": "Outros",
+      "ID": 9
+    },
+    {
+      "IndexerType": "bnitCooperativeAssociationType",
+      "Code": 1,
+      "Description": "Cooperativa de Produção Agropecuária",
+      "ID": 10
+    }
+  ]
+}
