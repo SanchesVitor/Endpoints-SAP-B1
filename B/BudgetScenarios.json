@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BudgetScenarios",
+  "value": [
+    {
+      "Name": "Orçamento principal",
+      "InitialRatioPercentage": 100.0,
+      "StartofFiscalYear": "2022-01-01T00:00:00Z",
+      "BasicBudget": 1,
+      "Numerator": 1,
+      "RoundingMethod": "borm_NoRounding",
+      "Project": null,
+      "DistributionRule": null,
+      "DistributionRule2": null,
+      "DistributionRule3": null,
+      "DistributionRule4": null,
+      "DistributionRule5": null,
+      "U_Teste": null
+    },
+    {
+      "Name": "Orçamento principal",
+      "InitialRatioPercentage": 100.0,
+      "StartofFiscalYear": "2023-01-01T00:00:00Z",
+      "BasicBudget": 2,
+      "Numerator": 2,
+      "RoundingMethod": "borm_NoRounding",
+      "Project": null,
+      "DistributionRule": null,
+      "DistributionRule2": null,
+      "DistributionRule3": null,
+      "DistributionRule4": null,
+      "DistributionRule5": null,
+      "U_Teste": null
+    },
+    {
+      "Name": "23-24 - FIN",
+      "InitialRatioPercentage": 100.0,
+      "StartofFiscalYear": "2023-01-01T00:00:00Z",
+      "BasicBudget": 4,
+      "Numerator": 4,
+      "RoundingMethod": "borm_NoRounding",
+      "Project": null,
+      "DistributionRule": "10011710",
+      "DistributionRule2": null,
+      "DistributionRule3": null,
+      "DistributionRule4": null,
+      "DistributionRule5": null,
+      "U_Teste": null
+    },
+    {
+      "Name": "23-24 - CONT",
+      "InitialRatioPercentage": 100.0,
+      "StartofFiscalYear": "2023-01-01T00:00:00Z",
+      "BasicBudget": 5,
+      "Numerator": 5,
+      "RoundingMethod": "borm_NoRounding",
+      "Project": null,
+      "DistributionRule": "10011720",
+      "DistributionRule2": null,
+      "DistributionRule3": null,
+      "DistributionRule4": null,
+      "DistributionRule5": null,
+      "U_Teste": null
+    }
+  ]
+}

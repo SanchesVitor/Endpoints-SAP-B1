@@ -1,0 +1,59 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BusinessPartnerGroups",
+  "value": [
+    {
+      "Code": 100,
+      "Name": "Cliente Cooperado",
+      "Type": "bbpgt_CustomerGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 101,
+      "Name": "Fornecedor Cooperado",
+      "Type": "bbpgt_VendorGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 102,
+      "Name": "Cliente não Cooperado",
+      "Type": "bbpgt_CustomerGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 103,
+      "Name": "Cliente Funcionário",
+      "Type": "bbpgt_CustomerGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 104,
+      "Name": "Fornecedor não Cooperado",
+      "Type": "bbpgt_VendorGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 105,
+      "Name": "Fornecedor Funcionário",
+      "Type": "bbpgt_VendorGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 106,
+      "Name": "Fornecedor Transportadora",
+      "Type": "bbpgt_VendorGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 107,
+      "Name": "DELETAR",
+      "Type": "bbpgt_VendorGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    },
+    {
+      "Code": 110,
+      "Name": "Cliente Autorizado",
+      "Type": "bbpgt_CustomerGroup",
+      "U_PDV_LIB_GP_CLIENTE": "N"
+    }
+  ]
+}

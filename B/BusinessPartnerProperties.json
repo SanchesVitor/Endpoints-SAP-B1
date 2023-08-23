@@ -1,0 +1,45 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#BusinessPartnerProperties",
+  "value": [
+    {
+      "PropertyCode": 1,
+      "PropertyName": "Parceiros de negócios característica 1"
+    },
+    {
+      "PropertyCode": 2,
+      "PropertyName": "Parceiros de negócios característica 2"
+    },
+    {
+      "PropertyCode": 3,
+      "PropertyName": "Parceiros de negócios característica 3"
+    },
+    {
+      "PropertyCode": 4,
+      "PropertyName": "Parceiros de negócios característica 4"
+    },
+    {
+      "PropertyCode": 5,
+      "PropertyName": "Parceiros de negócios característica 5"
+    },
+    {
+      "PropertyCode": 6,
+      "PropertyName": "Parceiros de negócios característica 6"
+    },
+    {
+      "PropertyCode": 7,
+      "PropertyName": "Parceiros de negócios característica 7"
+    },
+    {
+      "PropertyCode": 8,
+      "PropertyName": "Parceiros de negócios característica 8"
+    },
+    {
+      "PropertyCode": 9,
+      "PropertyName": "Parceiros de negócios característica 9"
+    },
+    {
+      "PropertyCode": 10,
+      "PropertyName": "Parceiros de negócios característica 10"
+    }
+  ]
+}
