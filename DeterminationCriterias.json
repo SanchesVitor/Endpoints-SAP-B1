@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#DeterminationCriterias",
+  "value": [
+    {
+      "DmcId": 1,
+      "DeterminationCriteria": "Grupo de itens",
+      "IsActive": "tYES",
+      "Priority": 1
+    },
+    {
+      "DmcId": 11,
+      "DeterminationCriteria": "Utilização",
+      "IsActive": "tYES",
+      "Priority": 2
+    },
+    {
+      "DmcId": 13,
+      "DeterminationCriteria": "OINV-K_Investimento",
+      "IsActive": "tYES",
+      "Priority": 3
+    },
+    {
+      "DmcId": 14,
+      "DeterminationCriteria": "INV1-K_CustoDespesaAtivo",
+      "IsActive": "tYES",
+      "Priority": 4
+    },
+    {
+      "DmcId": 2,
+      "DeterminationCriteria": "Código do item",
+      "IsActive": "tNO",
+      "Priority": 5
+    },
+    {
+      "DmcId": 3,
+      "DeterminationCriteria": "Código de depósito",
+      "IsActive": "tNO",
+      "Priority": 6
+    },
+    {
+      "DmcId": 4,
+      "DeterminationCriteria": "Grupo de parceiros de negócios",
+      "IsActive": "tNO",
+      "Priority": 7
+    },
+    {
+      "DmcId": 5,
+      "DeterminationCriteria": "País/região de entrega",
+      "IsActive": "tNO",
+      "Priority": 8
+    },
+    {
+      "DmcId": 6,
+      "DeterminationCriteria": "Estado do destinatário",
+      "IsActive": "tNO",
+      "Priority": 9
+    },
+    {
+      "DmcId": 8,
+      "DeterminationCriteria": "Código de imposto",
+      "IsActive": "tNO",
+      "Priority": 10
+    }
+  ]
+}

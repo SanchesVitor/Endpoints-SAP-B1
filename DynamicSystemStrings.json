@@ -1,0 +1,85 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#DynamicSystemStrings",
+  "value": [
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "Branch",
+      "ItemString": "Agência",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "BranchChk",
+      "ItemString": "Dígito da Agência",
+      "IsBold": "tNO",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "Account",
+      "ItemString": "Nº da Conta Corrente",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "AccountChk",
+      "ItemString": "Dígito de Conta Corrente",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "BankCode",
+      "ItemString": "Código do banco",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "60701",
+      "ItemID": "3",
+      "ColumnID": "GLAccount",
+      "ItemString": "Conta do Razão",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "80401",
+      "ItemID": "2006",
+      "ColumnID": "-1",
+      "ItemString": "Código de imposto padrão para compras:",
+      "IsBold": "tNO",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "134",
+      "ItemID": "44",
+      "ColumnID": "-1",
+      "ItemString": "Telefone 1 *",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "134",
+      "ItemID": "8",
+      "ColumnID": "-1",
+      "ItemString": "Nome/Razão social",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    },
+    {
+      "FormID": "134",
+      "ItemID": "17",
+      "ColumnID": "-1",
+      "ItemString": "Grupo",
+      "IsBold": "tYES",
+      "IsItalics": "tNO"
+    }
+  ]
+}

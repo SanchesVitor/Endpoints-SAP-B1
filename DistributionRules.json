@@ -1,0 +1,175 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#DistributionRules",
+  "value": [
+    {
+      "FactorCode": "1014010",
+      "FactorDescription": "Financeiro",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014010",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014020",
+      "FactorDescription": "Controladoria",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014020",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014030",
+      "FactorDescription": "Técnologia da Informação",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014030",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014040",
+      "FactorDescription": "Administrativo Matriz",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014040",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014050",
+      "FactorDescription": "Gente & Gestão",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014050",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014060",
+      "FactorDescription": "Suprimentos",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014060",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1014080",
+      "FactorDescription": "Marketing",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1014080",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1016000",
+      "FactorDescription": "Insumos Corporativo",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1016000",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1016100",
+      "FactorDescription": "Varejo Corporativo",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1016100",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    },
+    {
+      "FactorCode": "1016130",
+      "FactorDescription": "Venda Externa",
+      "TotalFactor": 100.0,
+      "Direct": "Y",
+      "InWhichDimension": 1,
+      "Active": "tYES",
+      "IsFixedAmount": "tNO",
+      "DistributionRuleLines": [
+        {
+          "CenterCode": "1016130",
+          "TotalInCenter": 100.0,
+          "EffectiveFrom": "2022-01-01T00:00:00Z",
+          "EffectiveTo": null
+        }
+      ]
+    }
+  ]
+}

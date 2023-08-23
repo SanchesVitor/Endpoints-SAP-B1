@@ -1,0 +1,35 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Dimensions",
+  "value": [
+    {
+      "DimensionCode": 1,
+      "DimensionName": "Dimensão 1",
+      "IsActive": "tYES",
+      "DimensionDescription": "Centro de Custo"
+    },
+    {
+      "DimensionCode": 2,
+      "DimensionName": "Dimensão 2",
+      "IsActive": "tNO",
+      "DimensionDescription": "Dimensão 2"
+    },
+    {
+      "DimensionCode": 3,
+      "DimensionName": "Dimensão 3",
+      "IsActive": "tNO",
+      "DimensionDescription": "Dimensão 3"
+    },
+    {
+      "DimensionCode": 4,
+      "DimensionName": "Dimensão 4",
+      "IsActive": "tNO",
+      "DimensionDescription": "Dimensão 4"
+    },
+    {
+      "DimensionCode": 5,
+      "DimensionName": "Dimensão 5",
+      "IsActive": "tNO",
+      "DimensionDescription": "Dimensão 5"
+    }
+  ]
+}

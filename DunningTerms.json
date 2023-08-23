@@ -1,0 +1,67 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#DunningTerms",
+  "value": [
+    {
+      "Code": "Padrão",
+      "Name": "Padrão",
+      "GroupingMethod": "gmPerBP",
+      "DaysInYear": 360,
+      "DaysInMonth": 30,
+      "CalculateInterestMethod": "cimOnRemainingAmount",
+      "ExchangeRateSelect": "ierFromInovice",
+      "YearlyInterestRate": 0.0,
+      "LetterFee": 0.0,
+      "LetterFeeCurrency": "R$",
+      "MinimumBalance": 0.0,
+      "MinimumBalanceCurrency": "R$",
+      "IncludeInterest": "tYES",
+      "ApplyHighestLetterTemplate": "tNO",
+      "AutomaticPosting": "apNo",
+      "InterestAccount": null,
+      "FeeAccount": null,
+      "BaseDateSelect": "bdsFromDueDate",
+      "DunningTermLines": [
+        {
+          "LevelNum": 1,
+          "LetterFormat": "dltDunningLetter1",
+          "Effectiveafter": "30",
+          "LetterFee": 0.0,
+          "LetterFeeCurrency": "R$",
+          "MininumBalance": 0.0,
+          "MininumBalanceCurrency": "R$",
+          "CalculateInterest": "tYES"
+        },
+        {
+          "LevelNum": 2,
+          "LetterFormat": "dltDunningLetter2",
+          "Effectiveafter": "60",
+          "LetterFee": 0.0,
+          "LetterFeeCurrency": "R$",
+          "MininumBalance": 0.0,
+          "MininumBalanceCurrency": "R$",
+          "CalculateInterest": "tYES"
+        },
+        {
+          "LevelNum": 3,
+          "LetterFormat": "dltDunningLetter3",
+          "Effectiveafter": "90",
+          "LetterFee": 0.0,
+          "LetterFeeCurrency": "R$",
+          "MininumBalance": 0.0,
+          "MininumBalanceCurrency": "R$",
+          "CalculateInterest": "tYES"
+        },
+        {
+          "LevelNum": 4,
+          "LetterFormat": "dltDunningALL",
+          "Effectiveafter": "120",
+          "LetterFee": 0.0,
+          "LetterFeeCurrency": "R$",
+          "MininumBalance": 0.0,
+          "MininumBalanceCurrency": "R$",
+          "CalculateInterest": "tYES"
+        }
+      ]
+    }
+  ]
+}

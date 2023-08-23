@@ -1,0 +1,35 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#DepreciationAreas",
+  "value": [
+    {
+      "Code": "100",
+      "Description": "Área depreciação",
+      "PostingOfDepreciation": "podIndirectPosting",
+      "RetirementMethod": "rmGross",
+      "AreaType": "atPostingtoGL",
+      "DerivedArea": null,
+      "MainBookingArea": "tYES",
+      "DirectRevenuePosting": "tNO",
+      "TaxCreditControl": "tNO",
+      "TaxType": null,
+      "BPForTaxCorrection": null,
+      "ItemForTaxCorrection": null,
+      "UsageForTaxCorrection": null
+    },
+    {
+      "Code": "200",
+      "Description": "AREA TST",
+      "PostingOfDepreciation": "podIndirectPosting",
+      "RetirementMethod": "rmGross",
+      "AreaType": "atPostingtoGL",
+      "DerivedArea": null,
+      "MainBookingArea": "tNO",
+      "DirectRevenuePosting": "tNO",
+      "TaxCreditControl": "tNO",
+      "TaxType": null,
+      "BPForTaxCorrection": null,
+      "ItemForTaxCorrection": null,
+      "UsageForTaxCorrection": null
+    }
+  ]
+}
