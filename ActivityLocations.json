@@ -1,0 +1,9 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ActivityLocations",
+  "value": [
+      {
+          "Code": -2,
+          "Name": "Endereço de parceiro de negócios"
+      }
+  ]
+}
