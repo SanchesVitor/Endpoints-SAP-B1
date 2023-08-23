@@ -1,0 +1,412 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ApprovalRequests",
+  "value": [
+      {
+          "Code": 1,
+          "ApprovalTemplatesID": 3,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": null,
+          "CurrentStage": 3,
+          "OriginatorID": 815,
+          "CreationDate": "2023-07-05T00:00:00Z",
+          "CreationTime": "15:58:00",
+          "DraftEntry": 19,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 3,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-07-05T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-07-05T00:00:00Z",
+                  "CreationTime": "15:58:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 2,
+          "ApprovalTemplatesID": 3,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "teste",
+          "CurrentStage": 3,
+          "OriginatorID": 815,
+          "CreationDate": "2023-07-05T00:00:00Z",
+          "CreationTime": "16:02:00",
+          "DraftEntry": 20,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 3,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-07-05T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-07-05T00:00:00Z",
+                  "CreationTime": "16:02:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 3,
+          "ApprovalTemplatesID": 3,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "teste.",
+          "CurrentStage": 3,
+          "OriginatorID": 815,
+          "CreationDate": "2023-08-14T00:00:00Z",
+          "CreationTime": "09:43:00",
+          "DraftEntry": 30,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 3,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-14T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-14T00:00:00Z",
+                  "CreationTime": "09:43:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 4,
+          "ApprovalTemplatesID": 15,
+          "ObjectType": "22",
+          "IsDraft": "Y",
+          "ObjectEntry": 261,
+          "Status": "arsPending",
+          "Remarks": "teste",
+          "CurrentStage": 8,
+          "OriginatorID": 815,
+          "CreationDate": "2023-08-14T00:00:00Z",
+          "CreationTime": "14:24:00",
+          "DraftEntry": 31,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 8,
+                  "UserID": 517,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-14T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-14T00:00:00Z",
+                  "CreationTime": "14:24:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 5,
+          "ApprovalTemplatesID": 15,
+          "ObjectType": "22",
+          "IsDraft": "Y",
+          "ObjectEntry": 262,
+          "Status": "arsPending",
+          "Remarks": null,
+          "CurrentStage": 8,
+          "OriginatorID": 815,
+          "CreationDate": "2023-08-14T00:00:00Z",
+          "CreationTime": "14:24:00",
+          "DraftEntry": 32,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 8,
+                  "UserID": 517,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-14T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-14T00:00:00Z",
+                  "CreationTime": "14:24:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 6,
+          "ApprovalTemplatesID": 15,
+          "ObjectType": "22",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "teste",
+          "CurrentStage": 8,
+          "OriginatorID": 815,
+          "CreationDate": "2023-08-14T00:00:00Z",
+          "CreationTime": "14:29:00",
+          "DraftEntry": 33,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 8,
+                  "UserID": 517,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-14T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-14T00:00:00Z",
+                  "CreationTime": "14:29:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 7,
+          "ApprovalTemplatesID": 9,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "Teste primeiro, até 10k",
+          "CurrentStage": 7,
+          "OriginatorID": 812,
+          "CreationDate": "2023-08-15T00:00:00Z",
+          "CreationTime": "07:44:00",
+          "DraftEntry": 34,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 7,
+                  "UserID": 470,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:44:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 472,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:44:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:44:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 477,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:44:00"
+              }
+          ],
+          "ApprovalRequestDecisions": [
+              {
+                  "ApproverUserName": null,
+                  "ApproverPassword": "",
+                  "Status": "ardNotApproved",
+                  "Remarks": "AMENDOIM TORRADO DESPELICULADO SEM SAL 500GR"
+              }
+          ]
+      },
+      {
+          "Code": 8,
+          "ApprovalTemplatesID": 10,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "Teste acima 10k",
+          "CurrentStage": 7,
+          "OriginatorID": 812,
+          "CreationDate": "2023-08-15T00:00:00Z",
+          "CreationTime": "07:45:00",
+          "DraftEntry": 35,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 7,
+                  "UserID": 470,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:45:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 472,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:45:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:45:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 477,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:45:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 9,
+          "ApprovalTemplatesID": 13,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "Acima de 100k, TESTE",
+          "CurrentStage": 7,
+          "OriginatorID": 812,
+          "CreationDate": "2023-08-15T00:00:00Z",
+          "CreationTime": "07:49:00",
+          "DraftEntry": 36,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 7,
+                  "UserID": 470,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:49:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 472,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:49:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:49:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 477,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:49:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      },
+      {
+          "Code": 10,
+          "ApprovalTemplatesID": 9,
+          "ObjectType": "1470000113",
+          "IsDraft": "Y",
+          "ObjectEntry": null,
+          "Status": "arsPending",
+          "Remarks": "Faixa até 10k. TESTE",
+          "CurrentStage": 7,
+          "OriginatorID": 812,
+          "CreationDate": "2023-08-15T00:00:00Z",
+          "CreationTime": "07:51:00",
+          "DraftEntry": 37,
+          "DraftType": "112",
+          "ApprovalRequestLines": [
+              {
+                  "StageCode": 7,
+                  "UserID": 470,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:51:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 472,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:51:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 474,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:51:00"
+              },
+              {
+                  "StageCode": 7,
+                  "UserID": 477,
+                  "Status": "ardPending",
+                  "Remarks": null,
+                  "UpdateDate": "2023-08-15T00:00:00Z",
+                  "UpdateTime": null,
+                  "CreationDate": "2023-08-15T00:00:00Z",
+                  "CreationTime": "07:51:00"
+              }
+          ],
+          "ApprovalRequestDecisions": []
+      }
+  ]
+}

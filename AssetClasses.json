@@ -1,0 +1,205 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#AssetClasses",
+  "value": [
+    {
+      "Code": "1.3.02.01.004-001",
+      "Description": "*",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 1,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "1.3.02.01.004-001",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0001",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 36
+        }
+      ]
+    },
+    {
+      "Code": "1.3.03.01.001-001",
+      "Description": "LICENÇA SOFTWARE",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 1,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "1.3.03.01.001-001",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0016",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 36
+        }
+      ]
+    },
+    {
+      "Code": "BEN01",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 1,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN01",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN03",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 3,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN03",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN08",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 4,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN08",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN09",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 5,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN09",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN10",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 6,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN10",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN14",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 7,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN14",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN18",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 8,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN18",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    },
+    {
+      "Code": "BEN21",
+      "Description": "Benfeitorias em Imóveis de Terceiros",
+      "AssetType": "atAssetTypeGeneral",
+      "ValueLimitFrom": 0.0,
+      "ValueLimitTo": 0.0,
+      "BPLID": 9,
+      "AttributeGroup": -1,
+      "AssetClassCollection": [
+        {
+          "Code": "BEN21",
+          "LineNumber": 0,
+          "DepreciationAreaID": "100",
+          "ActiveStatus": "tYES",
+          "AccountDetermination": "0008",
+          "DepreciationTypeID": "Linear",
+          "UseLife": 120
+        }
+      ]
+    }
+  ]
+}

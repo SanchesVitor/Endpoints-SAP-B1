@@ -1,0 +1,11950 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ApprovalTemplates",
+  "value": [
+    {
+      "Code": 8,
+      "Name": "SCCEOOPEX01",
+      "Remarks": "SOLI.COMPRA- CEO - OPEX",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 2,
+          "Remarks": "CEO"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 384
+        }
+      ]
+    },
+    {
+      "Code": 202,
+      "Name": "SCALMOXJAB 02",
+      "Remarks": "SOLI.COMPRA ALMOXARIFADO JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 49,
+          "Remarks": "GERENTE LOGISTICA"
+        },
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 52,
+          "Remarks": "LÍDER LOGISTICA GRÃOS"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 470
+        }
+      ]
+    },
+    {
+      "Code": 203,
+      "Name": "SCALMOXJAB 03",
+      "Remarks": "SOLI.COMPRA ALMOXARIFADO JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 3,
+          "ApprovalStageCode": 2,
+          "Remarks": "CEO"
+        },
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 49,
+          "Remarks": "GERENTE LOGISTICA"
+        },
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 52,
+          "Remarks": "LÍDER LOGISTICA GRÃOS"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 471
+        }
+      ]
+    },
+    {
+      "Code": 204,
+      "Name": "SCALMOXJAB 04",
+      "Remarks": "SOLI.COMPRA ALMOXARIFADO JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 3,
+          "ApprovalStageCode": 2,
+          "Remarks": "CEO"
+        },
+        {
+          "SortID": 4,
+          "ApprovalStageCode": 6,
+          "Remarks": "CONSELHO INTERNO"
+        },
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 49,
+          "Remarks": "GERENTE LOGISTICA"
+        },
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 52,
+          "Remarks": "LÍDER LOGISTICA GRÃOS"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 472
+        }
+      ]
+    },
+    {
+      "Code": 7,
+      "Name": "PCCEOOPEX02",
+      "Remarks": "PEDIDO DE COMPRA- CEO - OPEX",
+      "UseTerms": "tYES",
+      "IsActive": "tYES",
+      "IsActiveWhenUpdatingDocuments": "tYES",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 828
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 3,
+          "Remarks": "COORDENADOR DE BRM"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseOrder"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 567
+        }
+      ]
+    },
+    {
+      "Code": 205,
+      "Name": "SCFROTASJAB 01",
+      "Remarks": "SOLI.COMPRA FROTA JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 51,
+          "Remarks": "SUPERVISOR DE LOGISTICA JABOTICABAL"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 473
+        }
+      ]
+    },
+    {
+      "Code": 206,
+      "Name": "SCFROTASJAB 02",
+      "Remarks": "SOLI.COMPRA FROTA JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 49,
+          "Remarks": "GERENTE LOGISTICA"
+        },
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 51,
+          "Remarks": "SUPERVISOR DE LOGISTICA JABOTICABAL"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 474
+        }
+      ]
+    },
+    {
+      "Code": 12,
+      "Name": "SCCEOOPEX02",
+      "Remarks": "SOLI.COMPRA- CEO - OPEX",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 2,
+          "Remarks": "CEO"
+        },
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 6,
+          "Remarks": "CONSELHO INTERNO"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 385
+        }
+      ]
+    },
+    {
+      "Code": 9,
+      "Name": "SCTIOPEX01 TESTE",
+      "Remarks": "SOLI.COMPRA-TI - OPEX",
+      "UseTerms": "tYES",
+      "IsActive": "tYES",
+      "IsActiveWhenUpdatingDocuments": "tYES",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 7,
+          "Remarks": "COORDENADOR DE TI"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 386
+        }
+      ]
+    },
+    {
+      "Code": 207,
+      "Name": "SCFROTASJAB 04",
+      "Remarks": "SOLI.COMPRA FROTA JABOTICABAL",
+      "UseTerms": "tYES",
+      "IsActive": "tNO",
+      "IsActiveWhenUpdatingDocuments": "tNO",
+      "ApprovalTemplateUsers": [
+        {
+          "UserID": 1
+        },
+        {
+          "UserID": 2
+        },
+        {
+          "UserID": 3
+        },
+        {
+          "UserID": 4
+        },
+        {
+          "UserID": 5
+        },
+        {
+          "UserID": 6
+        },
+        {
+          "UserID": 7
+        },
+        {
+          "UserID": 8
+        },
+        {
+          "UserID": 9
+        },
+        {
+          "UserID": 11
+        },
+        {
+          "UserID": 12
+        },
+        {
+          "UserID": 13
+        },
+        {
+          "UserID": 14
+        },
+        {
+          "UserID": 15
+        },
+        {
+          "UserID": 413
+        },
+        {
+          "UserID": 414
+        },
+        {
+          "UserID": 415
+        },
+        {
+          "UserID": 416
+        },
+        {
+          "UserID": 417
+        },
+        {
+          "UserID": 418
+        },
+        {
+          "UserID": 419
+        },
+        {
+          "UserID": 420
+        },
+        {
+          "UserID": 421
+        },
+        {
+          "UserID": 422
+        },
+        {
+          "UserID": 423
+        },
+        {
+          "UserID": 424
+        },
+        {
+          "UserID": 425
+        },
+        {
+          "UserID": 426
+        },
+        {
+          "UserID": 427
+        },
+        {
+          "UserID": 428
+        },
+        {
+          "UserID": 429
+        },
+        {
+          "UserID": 430
+        },
+        {
+          "UserID": 431
+        },
+        {
+          "UserID": 432
+        },
+        {
+          "UserID": 433
+        },
+        {
+          "UserID": 434
+        },
+        {
+          "UserID": 435
+        },
+        {
+          "UserID": 436
+        },
+        {
+          "UserID": 437
+        },
+        {
+          "UserID": 438
+        },
+        {
+          "UserID": 439
+        },
+        {
+          "UserID": 440
+        },
+        {
+          "UserID": 441
+        },
+        {
+          "UserID": 442
+        },
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 444
+        },
+        {
+          "UserID": 445
+        },
+        {
+          "UserID": 446
+        },
+        {
+          "UserID": 447
+        },
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 449
+        },
+        {
+          "UserID": 450
+        },
+        {
+          "UserID": 451
+        },
+        {
+          "UserID": 452
+        },
+        {
+          "UserID": 453
+        },
+        {
+          "UserID": 454
+        },
+        {
+          "UserID": 455
+        },
+        {
+          "UserID": 456
+        },
+        {
+          "UserID": 457
+        },
+        {
+          "UserID": 458
+        },
+        {
+          "UserID": 459
+        },
+        {
+          "UserID": 460
+        },
+        {
+          "UserID": 461
+        },
+        {
+          "UserID": 462
+        },
+        {
+          "UserID": 463
+        },
+        {
+          "UserID": 464
+        },
+        {
+          "UserID": 465
+        },
+        {
+          "UserID": 466
+        },
+        {
+          "UserID": 467
+        },
+        {
+          "UserID": 468
+        },
+        {
+          "UserID": 469
+        },
+        {
+          "UserID": 470
+        },
+        {
+          "UserID": 471
+        },
+        {
+          "UserID": 472
+        },
+        {
+          "UserID": 473
+        },
+        {
+          "UserID": 474
+        },
+        {
+          "UserID": 475
+        },
+        {
+          "UserID": 476
+        },
+        {
+          "UserID": 477
+        },
+        {
+          "UserID": 478
+        },
+        {
+          "UserID": 479
+        },
+        {
+          "UserID": 481
+        },
+        {
+          "UserID": 482
+        },
+        {
+          "UserID": 483
+        },
+        {
+          "UserID": 484
+        },
+        {
+          "UserID": 485
+        },
+        {
+          "UserID": 486
+        },
+        {
+          "UserID": 487
+        },
+        {
+          "UserID": 488
+        },
+        {
+          "UserID": 489
+        },
+        {
+          "UserID": 490
+        },
+        {
+          "UserID": 491
+        },
+        {
+          "UserID": 492
+        },
+        {
+          "UserID": 493
+        },
+        {
+          "UserID": 494
+        },
+        {
+          "UserID": 495
+        },
+        {
+          "UserID": 496
+        },
+        {
+          "UserID": 497
+        },
+        {
+          "UserID": 498
+        },
+        {
+          "UserID": 499
+        },
+        {
+          "UserID": 500
+        },
+        {
+          "UserID": 501
+        },
+        {
+          "UserID": 502
+        },
+        {
+          "UserID": 503
+        },
+        {
+          "UserID": 504
+        },
+        {
+          "UserID": 505
+        },
+        {
+          "UserID": 506
+        },
+        {
+          "UserID": 507
+        },
+        {
+          "UserID": 508
+        },
+        {
+          "UserID": 509
+        },
+        {
+          "UserID": 510
+        },
+        {
+          "UserID": 511
+        },
+        {
+          "UserID": 512
+        },
+        {
+          "UserID": 513
+        },
+        {
+          "UserID": 514
+        },
+        {
+          "UserID": 515
+        },
+        {
+          "UserID": 516
+        },
+        {
+          "UserID": 517
+        },
+        {
+          "UserID": 518
+        },
+        {
+          "UserID": 519
+        },
+        {
+          "UserID": 520
+        },
+        {
+          "UserID": 521
+        },
+        {
+          "UserID": 522
+        },
+        {
+          "UserID": 523
+        },
+        {
+          "UserID": 524
+        },
+        {
+          "UserID": 525
+        },
+        {
+          "UserID": 526
+        },
+        {
+          "UserID": 527
+        },
+        {
+          "UserID": 528
+        },
+        {
+          "UserID": 529
+        },
+        {
+          "UserID": 530
+        },
+        {
+          "UserID": 531
+        },
+        {
+          "UserID": 532
+        },
+        {
+          "UserID": 533
+        },
+        {
+          "UserID": 534
+        },
+        {
+          "UserID": 535
+        },
+        {
+          "UserID": 536
+        },
+        {
+          "UserID": 537
+        },
+        {
+          "UserID": 538
+        },
+        {
+          "UserID": 539
+        },
+        {
+          "UserID": 540
+        },
+        {
+          "UserID": 541
+        },
+        {
+          "UserID": 542
+        },
+        {
+          "UserID": 543
+        },
+        {
+          "UserID": 544
+        },
+        {
+          "UserID": 545
+        },
+        {
+          "UserID": 546
+        },
+        {
+          "UserID": 547
+        },
+        {
+          "UserID": 548
+        },
+        {
+          "UserID": 549
+        },
+        {
+          "UserID": 550
+        },
+        {
+          "UserID": 551
+        },
+        {
+          "UserID": 552
+        },
+        {
+          "UserID": 553
+        },
+        {
+          "UserID": 554
+        },
+        {
+          "UserID": 555
+        },
+        {
+          "UserID": 556
+        },
+        {
+          "UserID": 557
+        },
+        {
+          "UserID": 558
+        },
+        {
+          "UserID": 559
+        },
+        {
+          "UserID": 560
+        },
+        {
+          "UserID": 561
+        },
+        {
+          "UserID": 562
+        },
+        {
+          "UserID": 563
+        },
+        {
+          "UserID": 564
+        },
+        {
+          "UserID": 565
+        },
+        {
+          "UserID": 566
+        },
+        {
+          "UserID": 567
+        },
+        {
+          "UserID": 568
+        },
+        {
+          "UserID": 569
+        },
+        {
+          "UserID": 570
+        },
+        {
+          "UserID": 571
+        },
+        {
+          "UserID": 572
+        },
+        {
+          "UserID": 573
+        },
+        {
+          "UserID": 574
+        },
+        {
+          "UserID": 575
+        },
+        {
+          "UserID": 576
+        },
+        {
+          "UserID": 577
+        },
+        {
+          "UserID": 578
+        },
+        {
+          "UserID": 579
+        },
+        {
+          "UserID": 580
+        },
+        {
+          "UserID": 581
+        },
+        {
+          "UserID": 582
+        },
+        {
+          "UserID": 583
+        },
+        {
+          "UserID": 584
+        },
+        {
+          "UserID": 585
+        },
+        {
+          "UserID": 586
+        },
+        {
+          "UserID": 587
+        },
+        {
+          "UserID": 588
+        },
+        {
+          "UserID": 589
+        },
+        {
+          "UserID": 590
+        },
+        {
+          "UserID": 591
+        },
+        {
+          "UserID": 592
+        },
+        {
+          "UserID": 593
+        },
+        {
+          "UserID": 594
+        },
+        {
+          "UserID": 595
+        },
+        {
+          "UserID": 596
+        },
+        {
+          "UserID": 597
+        },
+        {
+          "UserID": 598
+        },
+        {
+          "UserID": 599
+        },
+        {
+          "UserID": 600
+        },
+        {
+          "UserID": 601
+        },
+        {
+          "UserID": 602
+        },
+        {
+          "UserID": 603
+        },
+        {
+          "UserID": 604
+        },
+        {
+          "UserID": 605
+        },
+        {
+          "UserID": 606
+        },
+        {
+          "UserID": 607
+        },
+        {
+          "UserID": 608
+        },
+        {
+          "UserID": 609
+        },
+        {
+          "UserID": 610
+        },
+        {
+          "UserID": 611
+        },
+        {
+          "UserID": 612
+        },
+        {
+          "UserID": 613
+        },
+        {
+          "UserID": 614
+        },
+        {
+          "UserID": 615
+        },
+        {
+          "UserID": 616
+        },
+        {
+          "UserID": 617
+        },
+        {
+          "UserID": 618
+        },
+        {
+          "UserID": 619
+        },
+        {
+          "UserID": 620
+        },
+        {
+          "UserID": 621
+        },
+        {
+          "UserID": 622
+        },
+        {
+          "UserID": 623
+        },
+        {
+          "UserID": 624
+        },
+        {
+          "UserID": 625
+        },
+        {
+          "UserID": 626
+        },
+        {
+          "UserID": 627
+        },
+        {
+          "UserID": 628
+        },
+        {
+          "UserID": 629
+        },
+        {
+          "UserID": 630
+        },
+        {
+          "UserID": 631
+        },
+        {
+          "UserID": 632
+        },
+        {
+          "UserID": 633
+        },
+        {
+          "UserID": 634
+        },
+        {
+          "UserID": 635
+        },
+        {
+          "UserID": 636
+        },
+        {
+          "UserID": 637
+        },
+        {
+          "UserID": 638
+        },
+        {
+          "UserID": 639
+        },
+        {
+          "UserID": 640
+        },
+        {
+          "UserID": 641
+        },
+        {
+          "UserID": 642
+        },
+        {
+          "UserID": 643
+        },
+        {
+          "UserID": 644
+        },
+        {
+          "UserID": 645
+        },
+        {
+          "UserID": 646
+        },
+        {
+          "UserID": 647
+        },
+        {
+          "UserID": 648
+        },
+        {
+          "UserID": 649
+        },
+        {
+          "UserID": 650
+        },
+        {
+          "UserID": 651
+        },
+        {
+          "UserID": 652
+        },
+        {
+          "UserID": 653
+        },
+        {
+          "UserID": 654
+        },
+        {
+          "UserID": 655
+        },
+        {
+          "UserID": 656
+        },
+        {
+          "UserID": 657
+        },
+        {
+          "UserID": 658
+        },
+        {
+          "UserID": 659
+        },
+        {
+          "UserID": 660
+        },
+        {
+          "UserID": 661
+        },
+        {
+          "UserID": 662
+        },
+        {
+          "UserID": 663
+        },
+        {
+          "UserID": 664
+        },
+        {
+          "UserID": 665
+        },
+        {
+          "UserID": 666
+        },
+        {
+          "UserID": 667
+        },
+        {
+          "UserID": 668
+        },
+        {
+          "UserID": 669
+        },
+        {
+          "UserID": 670
+        },
+        {
+          "UserID": 671
+        },
+        {
+          "UserID": 672
+        },
+        {
+          "UserID": 673
+        },
+        {
+          "UserID": 674
+        },
+        {
+          "UserID": 675
+        },
+        {
+          "UserID": 676
+        },
+        {
+          "UserID": 677
+        },
+        {
+          "UserID": 678
+        },
+        {
+          "UserID": 679
+        },
+        {
+          "UserID": 680
+        },
+        {
+          "UserID": 681
+        },
+        {
+          "UserID": 682
+        },
+        {
+          "UserID": 683
+        },
+        {
+          "UserID": 684
+        },
+        {
+          "UserID": 685
+        },
+        {
+          "UserID": 686
+        },
+        {
+          "UserID": 687
+        },
+        {
+          "UserID": 688
+        },
+        {
+          "UserID": 689
+        },
+        {
+          "UserID": 690
+        },
+        {
+          "UserID": 691
+        },
+        {
+          "UserID": 692
+        },
+        {
+          "UserID": 693
+        },
+        {
+          "UserID": 694
+        },
+        {
+          "UserID": 695
+        },
+        {
+          "UserID": 696
+        },
+        {
+          "UserID": 697
+        },
+        {
+          "UserID": 698
+        },
+        {
+          "UserID": 699
+        },
+        {
+          "UserID": 700
+        },
+        {
+          "UserID": 701
+        },
+        {
+          "UserID": 702
+        },
+        {
+          "UserID": 703
+        },
+        {
+          "UserID": 704
+        },
+        {
+          "UserID": 705
+        },
+        {
+          "UserID": 706
+        },
+        {
+          "UserID": 707
+        },
+        {
+          "UserID": 708
+        },
+        {
+          "UserID": 709
+        },
+        {
+          "UserID": 710
+        },
+        {
+          "UserID": 711
+        },
+        {
+          "UserID": 712
+        },
+        {
+          "UserID": 713
+        },
+        {
+          "UserID": 714
+        },
+        {
+          "UserID": 715
+        },
+        {
+          "UserID": 716
+        },
+        {
+          "UserID": 717
+        },
+        {
+          "UserID": 718
+        },
+        {
+          "UserID": 719
+        },
+        {
+          "UserID": 720
+        },
+        {
+          "UserID": 721
+        },
+        {
+          "UserID": 722
+        },
+        {
+          "UserID": 723
+        },
+        {
+          "UserID": 724
+        },
+        {
+          "UserID": 725
+        },
+        {
+          "UserID": 726
+        },
+        {
+          "UserID": 727
+        },
+        {
+          "UserID": 728
+        },
+        {
+          "UserID": 729
+        },
+        {
+          "UserID": 730
+        },
+        {
+          "UserID": 731
+        },
+        {
+          "UserID": 732
+        },
+        {
+          "UserID": 733
+        },
+        {
+          "UserID": 734
+        },
+        {
+          "UserID": 735
+        },
+        {
+          "UserID": 736
+        },
+        {
+          "UserID": 737
+        },
+        {
+          "UserID": 738
+        },
+        {
+          "UserID": 739
+        },
+        {
+          "UserID": 740
+        },
+        {
+          "UserID": 741
+        },
+        {
+          "UserID": 742
+        },
+        {
+          "UserID": 743
+        },
+        {
+          "UserID": 744
+        },
+        {
+          "UserID": 745
+        },
+        {
+          "UserID": 746
+        },
+        {
+          "UserID": 747
+        },
+        {
+          "UserID": 748
+        },
+        {
+          "UserID": 749
+        },
+        {
+          "UserID": 750
+        },
+        {
+          "UserID": 751
+        },
+        {
+          "UserID": 752
+        },
+        {
+          "UserID": 753
+        },
+        {
+          "UserID": 754
+        },
+        {
+          "UserID": 755
+        },
+        {
+          "UserID": 756
+        },
+        {
+          "UserID": 757
+        },
+        {
+          "UserID": 758
+        },
+        {
+          "UserID": 759
+        },
+        {
+          "UserID": 760
+        },
+        {
+          "UserID": 761
+        },
+        {
+          "UserID": 762
+        },
+        {
+          "UserID": 763
+        },
+        {
+          "UserID": 764
+        },
+        {
+          "UserID": 765
+        },
+        {
+          "UserID": 766
+        },
+        {
+          "UserID": 767
+        },
+        {
+          "UserID": 768
+        },
+        {
+          "UserID": 769
+        },
+        {
+          "UserID": 770
+        },
+        {
+          "UserID": 771
+        },
+        {
+          "UserID": 772
+        },
+        {
+          "UserID": 773
+        },
+        {
+          "UserID": 774
+        },
+        {
+          "UserID": 775
+        },
+        {
+          "UserID": 776
+        },
+        {
+          "UserID": 777
+        },
+        {
+          "UserID": 778
+        },
+        {
+          "UserID": 779
+        },
+        {
+          "UserID": 780
+        },
+        {
+          "UserID": 781
+        },
+        {
+          "UserID": 782
+        },
+        {
+          "UserID": 783
+        },
+        {
+          "UserID": 784
+        },
+        {
+          "UserID": 785
+        },
+        {
+          "UserID": 786
+        },
+        {
+          "UserID": 787
+        },
+        {
+          "UserID": 788
+        },
+        {
+          "UserID": 789
+        },
+        {
+          "UserID": 790
+        },
+        {
+          "UserID": 791
+        },
+        {
+          "UserID": 792
+        },
+        {
+          "UserID": 793
+        },
+        {
+          "UserID": 794
+        },
+        {
+          "UserID": 795
+        },
+        {
+          "UserID": 796
+        },
+        {
+          "UserID": 797
+        },
+        {
+          "UserID": 798
+        },
+        {
+          "UserID": 799
+        },
+        {
+          "UserID": 800
+        },
+        {
+          "UserID": 801
+        },
+        {
+          "UserID": 802
+        },
+        {
+          "UserID": 803
+        },
+        {
+          "UserID": 804
+        },
+        {
+          "UserID": 805
+        },
+        {
+          "UserID": 806
+        },
+        {
+          "UserID": 807
+        },
+        {
+          "UserID": 808
+        },
+        {
+          "UserID": 809
+        },
+        {
+          "UserID": 810
+        },
+        {
+          "UserID": 812
+        },
+        {
+          "UserID": 814
+        },
+        {
+          "UserID": 815
+        },
+        {
+          "UserID": 816
+        },
+        {
+          "UserID": 817
+        },
+        {
+          "UserID": 818
+        },
+        {
+          "UserID": 819
+        },
+        {
+          "UserID": 821
+        },
+        {
+          "UserID": 822
+        },
+        {
+          "UserID": 824
+        },
+        {
+          "UserID": 828
+        },
+        {
+          "UserID": 829
+        },
+        {
+          "UserID": 830
+        },
+        {
+          "UserID": 831
+        },
+        {
+          "UserID": 832
+        },
+        {
+          "UserID": 833
+        },
+        {
+          "UserID": 834
+        },
+        {
+          "UserID": 836
+        },
+        {
+          "UserID": 837
+        },
+        {
+          "UserID": 838
+        }
+      ],
+      "ApprovalTemplateStages": [
+        {
+          "SortID": 3,
+          "ApprovalStageCode": 2,
+          "Remarks": "CEO"
+        },
+        {
+          "SortID": 4,
+          "ApprovalStageCode": 6,
+          "Remarks": "CONSELHO INTERNO"
+        },
+        {
+          "SortID": 2,
+          "ApprovalStageCode": 49,
+          "Remarks": "GERENTE LOGISTICA"
+        },
+        {
+          "SortID": 1,
+          "ApprovalStageCode": 51,
+          "Remarks": "SUPERVISOR DE LOGISTICA JABOTICABAL"
+        }
+      ],
+      "ApprovalTemplateDocuments": [
+        {
+          "DocumentType": "atdtPurchaseRequest"
+        }
+      ],
+      "ApprovalTemplateTerms": [],
+      "ApprovalTemplateQueries": [
+        {
+          "QueryID": 476
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ApprovalStages",
+  "value": [
+    {
+      "Code": 3,
+      "Name": "COORDENADOR DE BRM",
+      "NoOfApproversRequired": 1,
+      "Remarks": "COORDENADOR DE BRM",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 474
+        }
+      ]
+    },
+    {
+      "Code": 53,
+      "Name": "GESTOR G&G",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GESTOR GENTE E GESTÃO",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 443
+        },
+        {
+          "UserID": 446
+        }
+      ]
+    },
+    {
+      "Code": 29,
+      "Name": "GER INSUMOS TAQ",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GERENTE ISUMOS TAQUARITINGA",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 780
+        }
+      ]
+    },
+    {
+      "Code": 4,
+      "Name": "CONSELHO FISCAL",
+      "NoOfApproversRequired": 1,
+      "Remarks": "CONSELHO FISCAL",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 788
+        }
+      ]
+    },
+    {
+      "Code": 54,
+      "Name": "GERENTE G E G",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GERENTE GENTE E GESTÃO",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 440
+        }
+      ]
+    },
+    {
+      "Code": 55,
+      "Name": "GERENTE JURIDICO",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GERENTE JURIDICO",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 789
+        }
+      ]
+    },
+    {
+      "Code": 28,
+      "Name": "GER INS JAB",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GERENTE INSUMOS JABOTICABAL",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 537
+        }
+      ]
+    },
+    {
+      "Code": 30,
+      "Name": "GER INS DUMONT",
+      "NoOfApproversRequired": 1,
+      "Remarks": "GERENTE INSUMOS DE DUMONT",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 723
+        }
+      ]
+    },
+    {
+      "Code": 10,
+      "Name": "FACILITIES",
+      "NoOfApproversRequired": 1,
+      "Remarks": "FACILITIES",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 448
+        },
+        {
+          "UserID": 609
+        }
+      ]
+    },
+    {
+      "Code": 11,
+      "Name": "CMO",
+      "NoOfApproversRequired": 1,
+      "Remarks": "CMO",
+      "ApprovalStageApprovers": [
+        {
+          "UserID": 504
+        }
+      ]
+    }
+  ]
+}

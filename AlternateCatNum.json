@@ -1,0 +1,37 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#AlternateCatNum",
+  "value": [
+      {
+          "ItemCode": "LO000004636",
+          "CardCode": "FN0001454",
+          "Substitute": "57006",
+          "DisplayBPCatalogNumber": "tNO",
+          "IsDefault": "tYES",
+          "Description": null
+      },
+      {
+          "ItemCode": "LO000004547",
+          "CardCode": "FN0001454",
+          "Substitute": "57004",
+          "DisplayBPCatalogNumber": "tNO",
+          "IsDefault": "tYES",
+          "Description": null
+      },
+      {
+          "ItemCode": "LO000004548",
+          "CardCode": "FN0001454",
+          "Substitute": "56259",
+          "DisplayBPCatalogNumber": "tNO",
+          "IsDefault": "tYES",
+          "Description": null
+      },
+      {
+          "ItemCode": "LO000001564",
+          "CardCode": "FN0000377",
+          "Substitute": "4003-710-2122",
+          "DisplayBPCatalogNumber": "tNO",
+          "IsDefault": "tYES",
+          "Description": null
+      }
+  ]
+}
