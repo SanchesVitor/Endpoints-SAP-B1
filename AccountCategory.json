@@ -1,0 +1,106 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#AccountCategory",
+  "value": [
+      {
+          "CategoryCode": -1,
+          "CategoryName": "Cash",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -2,
+          "CategoryName": "Short Term Investments",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -3,
+          "CategoryName": "Accounts Receivable",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -4,
+          "CategoryName": "Inventory",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -5,
+          "CategoryName": "Notes Receivables",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -6,
+          "CategoryName": "Work in Process",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -7,
+          "CategoryName": "Deferred/Prepaid Expenses",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -8,
+          "CategoryName": "Long Term Investments",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -9,
+          "CategoryName": "Property, Plant and Equipment",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -10,
+          "CategoryName": "Intagible Assets",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -11,
+          "CategoryName": "Other Assets",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -12,
+          "CategoryName": "Capitalization of Asset Construction",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -13,
+          "CategoryName": "Account Payable",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -14,
+          "CategoryName": "Credit Card Charges",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -15,
+          "CategoryName": "Notes Payables",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -16,
+          "CategoryName": "Current Maturities of Long-Term Debt",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -17,
+          "CategoryName": "Taxes Payables",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -18,
+          "CategoryName": "Interest Payable",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -19,
+          "CategoryName": "Dividends Payable",
+          "CategorySource": "acsBalanceSheet"
+      },
+      {
+          "CategoryCode": -20,
+          "CategoryName": "Leases Payables (Current)",
+          "CategorySource": "acsBalanceSheet"
+      }
+  ],
+  "@odata.nextLink": "AccountCategory?$skip=20"
+}
