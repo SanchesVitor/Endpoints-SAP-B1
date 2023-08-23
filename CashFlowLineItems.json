@@ -1,0 +1,85 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CashFlowLineItems",
+  "value": [
+    {
+      "LineItemID": 1,
+      "LineItemName": "Fluxo de caixa das atividades operacionais",
+      "ActiveLineItem": "tNO",
+      "ParentArticle": null,
+      "Level": 1,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 2,
+      "LineItemName": "Pagamentos de notas fiscais de clientes",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 3,
+      "LineItemName": "Adiantamentos recebidos de clientes",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 4,
+      "LineItemName": "Devoluções de compras pagas por fornecedores",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 7,
+      "LineItemName": "Pagamentos de notas fiscais para fornecedores",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 8,
+      "LineItemName": "Adiantamentos para fornecedores",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 9,
+      "LineItemName": "Devoluções de vendas pagas por clientes",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 11,
+      "LineItemName": "Dinheiro pago por aluguel",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 12,
+      "LineItemName": "Dinheiro pago por eletricidade",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    },
+    {
+      "LineItemID": 15,
+      "LineItemName": "Dinheiro pago por telefones",
+      "ActiveLineItem": "tYES",
+      "ParentArticle": 1,
+      "Level": 2,
+      "Drawer": 1
+    }
+  ]
+}

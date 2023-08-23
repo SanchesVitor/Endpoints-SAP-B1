@@ -1,0 +1,55 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CycleCountDeterminations",
+  "value": [
+    {
+      "WarehouseCode": "01",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-DPFUP",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-DPHER",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-ARM02",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-DPFER",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-ARM03",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-ARM04",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-ARM05",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "03-DPPCA",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    },
+    {
+      "WarehouseCode": "01-ARM06",
+      "CycleBy": "ccdcbItemGroup",
+      "CycleCountDeterminationSetupCollection": []
+    }
+  ]
+}

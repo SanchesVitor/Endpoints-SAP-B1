@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Cockpits",
+  "value": [
+    {
+      "AbsEntry": -1,
+      "Code": -1,
+      "Name": "Home",
+      "Description": null,
+      "UserSignature": -1,
+      "Date": "2022-11-19T00:00:00Z",
+      "Time": "21:32:00",
+      "Manufacturer": "SAP",
+      "Publisher": "SYSTEM",
+      "CockpitType": "cptt_TemplateCockpit"
+    },
+    {
+      "AbsEntry": -2,
+      "Code": -2,
+      "Name": "Sales",
+      "Description": null,
+      "UserSignature": -1,
+      "Date": "2022-11-19T00:00:00Z",
+      "Time": "21:32:00",
+      "Manufacturer": "SAP",
+      "Publisher": "SYSTEM",
+      "CockpitType": "cptt_TemplateCockpit"
+    },
+    {
+      "AbsEntry": -3,
+      "Code": -3,
+      "Name": "Service",
+      "Description": null,
+      "UserSignature": -1,
+      "Date": "2022-11-19T00:00:00Z",
+      "Time": "21:32:00",
+      "Manufacturer": "SAP",
+      "Publisher": "SYSTEM",
+      "CockpitType": "cptt_TemplateCockpit"
+    },
+    {
+      "AbsEntry": -4,
+      "Code": -4,
+      "Name": "Finance",
+      "Description": null,
+      "UserSignature": -1,
+      "Date": "2022-11-19T00:00:00Z",
+      "Time": "21:32:00",
+      "Manufacturer": "SAP",
+      "Publisher": "SYSTEM",
+      "CockpitType": "cptt_TemplateCockpit"
+    },
+    {
+      "AbsEntry": -5,
+      "Code": -5,
+      "Name": "Purchase",
+      "Description": null,
+      "UserSignature": -1,
+      "Date": "2022-11-19T00:00:00Z",
+      "Time": "21:32:00",
+      "Manufacturer": "SAP",
+      "Publisher": "SYSTEM",
+      "CockpitType": "cptt_TemplateCockpit"
+    }
+  ]
+}

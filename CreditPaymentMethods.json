@@ -1,0 +1,115 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CreditPaymentMethods",
+  "value": [
+    {
+      "PaymentMethodCode": 1,
+      "Name": "Visa Débito",
+      "AssignedtoCreditCard": 1,
+      "PaymentCode": "01",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippNo",
+      "U_PDV_BAND_CARTAO": "01"
+    },
+    {
+      "PaymentMethodCode": 2,
+      "Name": "Visa Crédito",
+      "AssignedtoCreditCard": 1,
+      "PaymentCode": "02",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippYes",
+      "U_PDV_BAND_CARTAO": "01"
+    },
+    {
+      "PaymentMethodCode": 3,
+      "Name": "Mastercard Débito",
+      "AssignedtoCreditCard": 2,
+      "PaymentCode": "01",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippNo",
+      "U_PDV_BAND_CARTAO": "02"
+    },
+    {
+      "PaymentMethodCode": 4,
+      "Name": "Mastercard Crédito",
+      "AssignedtoCreditCard": 2,
+      "PaymentCode": "02",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippYes",
+      "U_PDV_BAND_CARTAO": "02"
+    },
+    {
+      "PaymentMethodCode": 5,
+      "Name": "American Express Débito",
+      "AssignedtoCreditCard": 3,
+      "PaymentCode": "01",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippNo",
+      "U_PDV_BAND_CARTAO": "03"
+    },
+    {
+      "PaymentMethodCode": 8,
+      "Name": "American Express Crédito",
+      "AssignedtoCreditCard": 3,
+      "PaymentCode": "02",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippYes",
+      "U_PDV_BAND_CARTAO": "03"
+    },
+    {
+      "PaymentMethodCode": 9,
+      "Name": "Sorocred Débito",
+      "AssignedtoCreditCard": 4,
+      "PaymentCode": "01",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippNo",
+      "U_PDV_BAND_CARTAO": "04"
+    },
+    {
+      "PaymentMethodCode": 10,
+      "Name": "Sorocred Crédito",
+      "AssignedtoCreditCard": 4,
+      "PaymentCode": "02",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippYes",
+      "U_PDV_BAND_CARTAO": "04"
+    },
+    {
+      "PaymentMethodCode": 11,
+      "Name": "DinersClub Débito",
+      "AssignedtoCreditCard": 5,
+      "PaymentCode": "01",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippNo",
+      "U_PDV_BAND_CARTAO": "05"
+    },
+    {
+      "PaymentMethodCode": 12,
+      "Name": "DinersClub Crédito",
+      "AssignedtoCreditCard": 5,
+      "PaymentCode": "02",
+      "MinimumCreditAmount": 0.0,
+      "MinimumPaymentAmount": 0.0,
+      "MaxQtyWithoutApproval": 0.0,
+      "InstallmentPaymentsPossible": "ippYes",
+      "U_PDV_BAND_CARTAO": "05"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CashDiscounts",
+  "value": [
+    {
+      "Code": "Até 10, 20 ou 30",
+      "Name": "Desconto até 10, 20 ou 30 dias",
+      "ByDate": "tNO",
+      "Freight": "tYES",
+      "Tax": "tNO",
+      "DiscountLines": [
+        {
+          "DiscountCode": "Até 10, 20 ou 30",
+          "LineId": 0,
+          "NumOfDays": 10,
+          "Discount": 15.0,
+          "Day": null,
+          "Month": null
+        },
+        {
+          "DiscountCode": "Até 10, 20 ou 30",
+          "LineId": 1,
+          "NumOfDays": 20,
+          "Discount": 10.0,
+          "Day": null,
+          "Month": null
+        },
+        {
+          "DiscountCode": "Até 10, 20 ou 30",
+          "LineId": 2,
+          "NumOfDays": 25,
+          "Discount": 5.0,
+          "Day": null,
+          "Month": null
+        }
+      ]
+    }
+  ]
+}

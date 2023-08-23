@@ -1,0 +1,450 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ChooseFromList",
+  "value": [
+    {
+      "ObjectName": "OPRC",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "OPRC",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Código do centro",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "OPRC",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "OPRC",
+          "FieldIndex": 3,
+          "FieldNo": "2",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    },
+    {
+      "ObjectName": "OITM",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Nº do item",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": "Descrição do item",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 3,
+          "FieldNo": "3",
+          "DisplayedName": "Grupo",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        },
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 5,
+          "FieldNo": "11",
+          "DisplayedName": "Em estoque",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 3
+        },
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 6,
+          "FieldNo": "236",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 4
+        },
+        {
+          "ObjectName": "OITM",
+          "FieldIndex": 7,
+          "FieldNo": "U_K_CodeLegado",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 5
+        }
+      ]
+    },
+    {
+      "ObjectName": "@AGRM_MTEM",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "@AGRM_MTEM",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "@AGRM_MTEM",
+          "FieldIndex": 2,
+          "FieldNo": "U_DescriAbreviada",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "@AGRM_MTEM",
+          "FieldIndex": 3,
+          "FieldNo": "1",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    },
+    {
+      "ObjectName": "OWHS",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "OWHS",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Código de depósito",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "OWHS",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": "Nome do depósito",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "OWHS",
+          "FieldIndex": 3,
+          "FieldNo": "91",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    },
+    {
+      "ObjectName": "OITT",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "OITT",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Nº do item",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tNO",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "OITT",
+          "FieldIndex": 2,
+          "FieldNo": "24",
+          "DisplayedName": "Descrição do produto",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "OITT",
+          "FieldIndex": 3,
+          "FieldNo": "1",
+          "DisplayedName": "Tipo de estrutura de produtos",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    },
+    {
+      "ObjectName": "@COOP_CDCO",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "@COOP_CDCO",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Cód",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "@COOP_CDCO",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": "Nome",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "@COOP_CDCO",
+          "FieldIndex": 3,
+          "FieldNo": "U_RG",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        },
+        {
+          "ObjectName": "@COOP_CDCO",
+          "FieldIndex": 4,
+          "FieldNo": "U_CNPJ",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 3
+        },
+        {
+          "ObjectName": "@COOP_CDCO",
+          "FieldIndex": 5,
+          "FieldNo": "U_RazaoSocialPJ",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 4
+        }
+      ]
+    },
+    {
+      "ObjectName": "@AGRM_CATO",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "@AGRM_CATO",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "@AGRM_CATO",
+          "FieldIndex": 2,
+          "FieldNo": "U_DescriAbreviada",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "@AGRM_CATO",
+          "FieldIndex": 3,
+          "FieldNo": "1",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    },
+    {
+      "ObjectName": "@AGRM_BAND",
+      "ChooseFromList_Lines": []
+    },
+    {
+      "ObjectName": "OCRD",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 1,
+          "FieldNo": "0",
+          "DisplayedName": "Código do PN",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": "Nome do PN",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 3,
+          "FieldNo": "14",
+          "DisplayedName": "Saldo da conta",
+          "GroupBy": "tNO",
+          "Visible": "tYES",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 4,
+          "FieldNo": "64",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 3
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 5,
+          "FieldNo": "U_K_GruFis_Parceiro",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 4
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 6,
+          "FieldNo": "3",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 5
+        },
+        {
+          "ObjectName": "OCRD",
+          "FieldIndex": 7,
+          "FieldNo": "23",
+          "DisplayedName": null,
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 6
+        }
+      ]
+    },
+    {
+      "ObjectName": "@AGRI_MEQU",
+      "ChooseFromList_Lines": [
+        {
+          "ObjectName": "@AGRI_MEQU",
+          "FieldIndex": 1,
+          "FieldNo": "U_DscMarca",
+          "DisplayedName": "MARCA",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 0
+        },
+        {
+          "ObjectName": "@AGRI_MEQU",
+          "FieldIndex": 2,
+          "FieldNo": "1",
+          "DisplayedName": "MODELO",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 1
+        },
+        {
+          "ObjectName": "@AGRI_MEQU",
+          "FieldIndex": 3,
+          "FieldNo": "0",
+          "DisplayedName": "CÓDIGO",
+          "GroupBy": "tNO",
+          "Visible": "tNO",
+          "ShowType": "tYES",
+          "SortOrder": "soAscending",
+          "VisualIndex": 2
+        }
+      ]
+    }
+  ]
+}

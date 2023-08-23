@@ -1,0 +1,19 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CustomsGroups",
+  "value": [
+    {
+      "Code": -1,
+      "Name": "Customs Exempt",
+      "Number": "0",
+      "Customs": 0.0,
+      "Purchase": 0.0,
+      "Other": 0.0,
+      "Total": 0.0,
+      "Locked": "tYES",
+      "CustomsAllocationAccount": null,
+      "CustomsExpenseAccount": null,
+      "PortAddress": null,
+      "PortState": null
+    }
+  ]
+}

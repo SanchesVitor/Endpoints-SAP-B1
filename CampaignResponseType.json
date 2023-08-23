@@ -1,0 +1,15 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CampaignResponseType",
+  "value": [
+    {
+      "ResponseTypeDescription": "Interessado em campanha",
+      "ResponseType": "Interessado",
+      "IsActive": "tYES"
+    },
+    {
+      "ResponseTypeDescription": "Não interessado em campanha",
+      "ResponseType": "Não interessado",
+      "IsActive": "tYES"
+    }
+  ]
+}

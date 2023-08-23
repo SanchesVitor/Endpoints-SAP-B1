@@ -1,0 +1,85 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CreditCards",
+  "value": [
+    {
+      "CreditCardCode": 1,
+      "CreditCardName": "Visa",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 2,
+      "CreditCardName": "Mastercard",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 3,
+      "CreditCardName": "American Express",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 4,
+      "CreditCardName": "Sorocred",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 5,
+      "CreditCardName": "DinersClub",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 6,
+      "CreditCardName": "Elo",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 7,
+      "CreditCardName": "Hipercard",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 8,
+      "CreditCardName": "Aura",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 9,
+      "CreditCardName": "Cabal",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    },
+    {
+      "CreditCardCode": 10,
+      "CreditCardName": "Outros",
+      "GLAccount": "1.1.04.01.001",
+      "Telephone": null,
+      "CompanyID": null,
+      "CountryCode": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#CreditCardPayments",
+  "value": [
+    {
+      "DueDateCode": "01",
+      "DueDateName": "Débito",
+      "DueDatesType": "ddtAfterTimePeriod",
+      "PaymentAfterDays": null,
+      "PaymentAfterMonths": null,
+      "FromDay1": null,
+      "ToDay1": null,
+      "PaymentDay1": null,
+      "NoOfMonths1": null,
+      "FromDay2": null,
+      "ToDay2": null,
+      "PaymentDay2": null,
+      "NoOfMonths2": null,
+      "FromDay3": null,
+      "ToDay3": null,
+      "PaymentDay3": null,
+      "NoOfMonths3": null,
+      "FromDay4": null,
+      "ToDay4": null,
+      "PaymentDay4": null,
+      "NoOfMonths4": null
+    },
+    {
+      "DueDateCode": "02",
+      "DueDateName": "Crédito",
+      "DueDatesType": "ddtAfterTimePeriod",
+      "PaymentAfterDays": null,
+      "PaymentAfterMonths": null,
+      "FromDay1": null,
+      "ToDay1": null,
+      "PaymentDay1": null,
+      "NoOfMonths1": null,
+      "FromDay2": null,
+      "ToDay2": null,
+      "PaymentDay2": null,
+      "NoOfMonths2": null,
+      "FromDay3": null,
+      "ToDay3": null,
+      "PaymentDay3": null,
+      "NoOfMonths3": null,
+      "FromDay4": null,
+      "ToDay4": null,
+      "PaymentDay4": null,
+      "NoOfMonths4": null
+    }
+  ]
+}
