@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#NCMCodesSetup",
+  "value": [
+    {
+      "AbsEntry": 211,
+      "NCMCode": "0303.11.00",
+      "Description": "SALMÕES VERM.(ONCORHYNCHUS NERKA)CONG.",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 212,
+      "NCMCode": "0303.12.00",
+      "Description": "SALMÕES-DO-PACÍFICO CONGELADOS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 213,
+      "NCMCode": "0303.13.00",
+      "Description": "SALMÃO-DO-ATLÂNTICO E SALMÃO-DO-DANÚBIO CONGELADOS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 214,
+      "NCMCode": "0303.14.00",
+      "Description": "TRUTAS CONGELADAS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 215,
+      "NCMCode": "0303.19.00",
+      "Description": "OUTROS PEIXES CONGELADOS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 216,
+      "NCMCode": "0303.23.00",
+      "Description": "TILÁPIAS CONGELADAS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 217,
+      "NCMCode": "0303.24.10",
+      "Description": "BAGRE CONGELADO",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 218,
+      "NCMCode": "0303.24.90",
+      "Description": "OUTROS BAGRES CONGELADOS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 219,
+      "NCMCode": "0303.25.00",
+      "Description": "CARPAS CONGELADAS",
+      "GroupCode": "L"
+    },
+    {
+      "AbsEntry": 220,
+      "NCMCode": "0303.26.00",
+      "Description": "ENGUIAS CONGELADAS",
+      "GroupCode": "L"
+    }
+  ]
+}

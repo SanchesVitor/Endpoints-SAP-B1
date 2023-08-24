@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#NFModels",
+  "value": [
+    {
+      "AbsEntry": "0",
+      "NFMName": null,
+      "NFMDescription": null,
+      "NFMCode": null
+    },
+    {
+      "AbsEntry": "1",
+      "NFMName": "Modelo 1",
+      "NFMDescription": "01 Nota Fiscal",
+      "NFMCode": "1"
+    },
+    {
+      "AbsEntry": "2",
+      "NFMName": "Modelo 1-A",
+      "NFMDescription": "Nota Fiscal 1/A",
+      "NFMCode": "1/A"
+    },
+    {
+      "AbsEntry": "3",
+      "NFMName": "Modelo 2",
+      "NFMDescription": "02 Nota Fiscal de Venda a Consumidor",
+      "NFMCode": "2"
+    },
+    {
+      "AbsEntry": "4",
+      "NFMName": "Modelo 2-A",
+      "NFMDescription": "2D  Cupom Fiscal",
+      "NFMCode": "2D"
+    },
+    {
+      "AbsEntry": "5",
+      "NFMName": "Modelo 4",
+      "NFMDescription": "04 Nota Fiscal de Produtor",
+      "NFMCode": "4"
+    },
+    {
+      "AbsEntry": "6",
+      "NFMName": "Modelo 6",
+      "NFMDescription": "06 Nota Fiscal/Conta de Energia Elétrica",
+      "NFMCode": "6"
+    },
+    {
+      "AbsEntry": "7",
+      "NFMName": "Modelo 7",
+      "NFMDescription": "07 Nota Fiscal de Serviço de Transporte",
+      "NFMCode": "7"
+    },
+    {
+      "AbsEntry": "8",
+      "NFMName": "Modelo 8",
+      "NFMDescription": "08 Conhecimento de Transporte Rodoviário de Cargas",
+      "NFMCode": "8"
+    },
+    {
+      "AbsEntry": "9",
+      "NFMName": "Modelo 10",
+      "NFMDescription": "10 Conhecimento Aéreo",
+      "NFMCode": "10"
+    }
+  ]
+}

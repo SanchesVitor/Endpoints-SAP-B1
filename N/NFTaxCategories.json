@@ -1,0 +1,75 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#NFTaxCategories",
+  "value": [
+    {
+      "AbsId": -11,
+      "Code": "II",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -10,
+      "Code": "COFINS",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -8,
+      "Code": "PIS",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -7,
+      "Code": "ISS",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -6,
+      "Code": "ICMS",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -5,
+      "Code": "ICMS-ST",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -4,
+      "Code": "IPI",
+      "Locked": "tYES",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -3,
+      "Code": "ICMS Dif",
+      "Locked": "tNO",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -2,
+      "Code": "INSS",
+      "Locked": "tNO",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    },
+    {
+      "AbsId": -12,
+      "Code": "PIS-ST",
+      "Locked": "tNO",
+      "GPCId": -1,
+      "CESTrel": "tNO"
+    }
+  ]
+}
