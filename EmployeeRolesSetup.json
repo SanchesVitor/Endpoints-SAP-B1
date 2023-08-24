@@ -1,0 +1,20 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#EmployeeRolesSetup",
+  "value": [
+    {
+      "TypeID": -2,
+      "Name": "Technician",
+      "Description": "Technician"
+    },
+    {
+      "TypeID": -3,
+      "Name": "Sales Employee",
+      "Description": "Sales Employee"
+    },
+    {
+      "TypeID": -4,
+      "Name": "Purchasing",
+      "Description": "Purchasing"
+    }
+  ]
+}

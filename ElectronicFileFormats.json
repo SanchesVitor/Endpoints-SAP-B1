@@ -1,0 +1,25 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ElectronicFileFormats",
+  "value": [
+    {
+      "FormatID": -1,
+      "Name": "SAPBPXXECD",
+      "Description": "ECD File Format",
+      "Version": "1.0",
+      "SchemaVersion": "1.0",
+      "OutputFilePath": null,
+      "MenuName": null,
+      "MenuPath": null
+    },
+    {
+      "FormatID": -2,
+      "Name": "eDoc Document Information Extraction - Marketing Documents Import (System)",
+      "Description": "eDoc Document Information Extraction - Marketing Documents Import (System)",
+      "Version": "1.04",
+      "SchemaVersion": "1.0",
+      "OutputFilePath": null,
+      "MenuName": null,
+      "MenuPath": null
+    }
+  ]
+}
