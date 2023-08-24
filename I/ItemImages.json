@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": "220",
+    "details": [
+      {
+        "code": "",
+        "message": ""
+      }
+    ],
+    "message": "ItemImages query is not supported."
+  }
+}

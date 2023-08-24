@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": "299",
+    "details": [
+      {
+        "code": "",
+        "message": ""
+      }
+    ],
+    "message": "Internal server error."
+  }
+}

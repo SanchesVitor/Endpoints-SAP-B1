@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#IntegrationPackagesConfigure",
+  "value": [
+    {
+      "AbsEntry": 1,
+      "Code": "EDI",
+      "Name": "EDI Integration",
+      "IsEnable": "tNO"
+    },
+    {
+      "AbsEntry": 2,
+      "Code": "ARI",
+      "Name": "Create Electronic Documents",
+      "IsEnable": "tNO"
+    },
+    {
+      "AbsEntry": 3,
+      "Code": "CONC",
+      "Name": "Concur Integration",
+      "IsEnable": "tNO"
+    }
+  ]
+}
