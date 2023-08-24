@@ -1,0 +1,355 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Messages",
+  "value": [
+    {
+      "Code": 1,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 9",
+              "Object": "122",
+              "ObjectKey": "1          3          474"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "474",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JULIANA MORATA CHIODA",
+          "SendEmail": "tNO",
+          "EmailAddress": "jmorata@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 2,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "teste",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 9",
+              "Object": "122",
+              "ObjectKey": "2          3          474"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "474",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JULIANA MORATA CHIODA",
+          "SendEmail": "tNO",
+          "EmailAddress": "jmorata@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 3,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "teste.",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 19",
+              "Object": "122",
+              "ObjectKey": "3          3          474"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "474",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JULIANA MORATA CHIODA",
+          "SendEmail": "tNO",
+          "EmailAddress": "jmorata@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 4,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de atualização de documento",
+      "Text": "teste",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Pedido de compra baseado no esboço nº 52",
+              "Object": "122",
+              "ObjectKey": "4          8          517"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "517",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JOSE ROBERTO MARIANO",
+          "SendEmail": "tNO",
+          "EmailAddress": "jrmariano@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 5,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de atualização de documento",
+      "Text": "",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Pedido de compra baseado no esboço nº 53",
+              "Object": "122",
+              "ObjectKey": "5          8          517"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "517",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JOSE ROBERTO MARIANO",
+          "SendEmail": "tNO",
+          "EmailAddress": "jrmariano@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 6,
+      "User": 815,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "teste",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Pedido de compra baseado no esboço nº 55",
+              "Object": "122",
+              "ObjectKey": "6          8          517"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "517",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JOSE ROBERTO MARIANO",
+          "SendEmail": "tNO",
+          "EmailAddress": "jrmariano@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 7,
+      "User": 812,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "Teste primeiro, até 10k",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 22",
+              "Object": "122",
+              "ObjectKey": "7          7          470"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "470",
+          "UserType": "rt_InternalUser",
+          "NameTo": "ELIZETE MACHADO RODRIGUES",
+          "SendEmail": "tNO",
+          "EmailAddress": "emrodrigues@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 8,
+      "User": 812,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "Teste primeiro, até 10k",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 22",
+              "Object": "122",
+              "ObjectKey": "7          7          472"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "472",
+          "UserType": "rt_InternalUser",
+          "NameTo": "HELENO BARBOSA JUNIOR",
+          "SendEmail": "tNO",
+          "EmailAddress": "hbarbosa@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 9,
+      "User": 812,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "Teste primeiro, até 10k",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 22",
+              "Object": "122",
+              "ObjectKey": "7          7          474"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "474",
+          "UserType": "rt_InternalUser",
+          "NameTo": "JULIANA MORATA CHIODA",
+          "SendEmail": "tNO",
+          "EmailAddress": "jmorata@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    },
+    {
+      "Code": 10,
+      "User": 812,
+      "Priority": "pr_Normal",
+      "Subject": "Solicitação para autorização de geração de documento",
+      "Text": "Teste primeiro, até 10k",
+      "Attachment": null,
+      "MessageDataColumns": [
+        {
+          "ColumnName": "Pedido de autorização do docum",
+          "Link": "tYES",
+          "MessageDataLines": [
+            {
+              "Value": "Solicitação de compra baseado no esboço nº 22",
+              "Object": "122",
+              "ObjectKey": "7          7          477"
+            }
+          ]
+        }
+      ],
+      "RecipientCollection": [
+        {
+          "UserCode": "477",
+          "UserType": "rt_InternalUser",
+          "NameTo": "MAYCO VINICIUS BARBOSA",
+          "SendEmail": "tNO",
+          "EmailAddress": "mvbarbosa@coplana.com",
+          "SendSMS": "tNO",
+          "CellularNumber": "",
+          "SendFax": "tNO",
+          "FaxNumber": "",
+          "SendInternal": "tYES"
+        }
+      ]
+    }
+  ]
+}

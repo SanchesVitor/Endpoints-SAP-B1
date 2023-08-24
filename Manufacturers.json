@@ -1,0 +1,45 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Manufacturers",
+  "value": [
+    {
+      "Code": -1,
+      "ManufacturerName": "- Nenhum fabricante -"
+    },
+    {
+      "Code": 1,
+      "ManufacturerName": "016.627.1707"
+    },
+    {
+      "Code": 2,
+      "ManufacturerName": "3D MOTORES"
+    },
+    {
+      "Code": 3,
+      "ManufacturerName": "ADAMA"
+    },
+    {
+      "Code": 4,
+      "ManufacturerName": "ADUBOS TREVO"
+    },
+    {
+      "Code": 5,
+      "ManufacturerName": "ADUFERTIL"
+    },
+    {
+      "Code": 6,
+      "ManufacturerName": "AGRIVITTA"
+    },
+    {
+      "Code": 7,
+      "ManufacturerName": "AGRODIESEL"
+    },
+    {
+      "Code": 11,
+      "ManufacturerName": "ALBAUGH"
+    },
+    {
+      "Code": 12,
+      "ManufacturerName": "ALMEIDA MAT CONSTR"
+    }
+  ]
+}

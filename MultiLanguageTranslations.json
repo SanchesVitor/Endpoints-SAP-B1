@@ -1,0 +1,185 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#MultiLanguageTranslations",
+  "value": [
+    {
+      "Numerator": -200,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-200",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -200,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Date"
+        },
+        {
+          "KeyFromHeaderTable": -200,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Datum"
+        }
+      ]
+    },
+    {
+      "Numerator": -199,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-199",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -199,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Page"
+        },
+        {
+          "KeyFromHeaderTable": -199,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Seite"
+        }
+      ]
+    },
+    {
+      "Numerator": -198,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-198",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -198,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Quantity"
+        },
+        {
+          "KeyFromHeaderTable": -198,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Menge"
+        }
+      ]
+    },
+    {
+      "Numerator": -197,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-197",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -197,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Unit Price"
+        },
+        {
+          "KeyFromHeaderTable": -197,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Einzelpreis"
+        }
+      ]
+    },
+    {
+      "Numerator": -196,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-196",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -196,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Total Price"
+        },
+        {
+          "KeyFromHeaderTable": -196,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Gesamtpreis"
+        }
+      ]
+    },
+    {
+      "Numerator": -195,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-195",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -195,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Customer ID"
+        },
+        {
+          "KeyFromHeaderTable": -195,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Kunden Nr"
+        }
+      ]
+    },
+    {
+      "Numerator": -194,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-194",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -194,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Sales Employee"
+        },
+        {
+          "KeyFromHeaderTable": -194,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Bearbeiter"
+        }
+      ]
+    },
+    {
+      "Numerator": -193,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-193",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -193,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Tax No."
+        },
+        {
+          "KeyFromHeaderTable": -193,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Steuernr"
+        }
+      ]
+    },
+    {
+      "Numerator": -192,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-192",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -192,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "VAT No."
+        },
+        {
+          "KeyFromHeaderTable": -192,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "USt-ID"
+        }
+      ]
+    },
+    {
+      "Numerator": -191,
+      "TableName": "OMLP",
+      "FieldAlias": "Name",
+      "PrimaryKeyofobject": "-191",
+      "TranslationsInUserLanguages": [
+        {
+          "KeyFromHeaderTable": -191,
+          "LanguageCodeOfUserLanguage": 3,
+          "Translationscontent": "Handover Date"
+        },
+        {
+          "KeyFromHeaderTable": -191,
+          "LanguageCodeOfUserLanguage": 9,
+          "Translationscontent": "Lieferdatum"
+        }
+      ]
+    }
+  ]
+}
