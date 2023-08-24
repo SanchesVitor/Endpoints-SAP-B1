@@ -1,0 +1,47 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#LengthMeasures",
+  "value": [
+    {
+      "UnitCode": 1,
+      "UnitDisplay": "mm",
+      "UnitName": "Milímetro",
+      "UnitCodeforQuantityDisplay": "mm3",
+      "UnitLengthinmm": 1.0
+    },
+    {
+      "UnitCode": 2,
+      "UnitDisplay": "cm",
+      "UnitName": "Centímetro",
+      "UnitCodeforQuantityDisplay": "cm3",
+      "UnitLengthinmm": 10.0
+    },
+    {
+      "UnitCode": 3,
+      "UnitDisplay": "dm",
+      "UnitName": "Decímetro",
+      "UnitCodeforQuantityDisplay": "dm3",
+      "UnitLengthinmm": 100.0
+    },
+    {
+      "UnitCode": 4,
+      "UnitDisplay": "m",
+      "UnitName": "Metro",
+      "UnitCodeforQuantityDisplay": "m3",
+      "UnitLengthinmm": 1000.0
+    },
+    {
+      "UnitCode": 5,
+      "UnitDisplay": "\"",
+      "UnitName": "Polegada",
+      "UnitCodeforQuantityDisplay": "ci",
+      "UnitLengthinmm": 25.40
+    },
+    {
+      "UnitCode": 6,
+      "UnitDisplay": "'",
+      "UnitName": "Pé",
+      "UnitCodeforQuantityDisplay": "ft3",
+      "UnitLengthinmm": 304.80
+    }
+  ]
+}
