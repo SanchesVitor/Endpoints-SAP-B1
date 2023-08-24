@@ -1,0 +1,21 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#OccurrenceCodes",
+  "value": [
+    {
+      "AbsEntry": 1,
+      "Code": "01",
+      "Description": "Gerado",
+      "Note": null,
+      "RequestedBoeStatus": "boes_Deposited",
+      "IsMovement": "tNO"
+    },
+    {
+      "AbsEntry": 2,
+      "Code": "03",
+      "Description": "CANCELADO",
+      "Note": null,
+      "RequestedBoeStatus": "boes_Cancelled",
+      "IsMovement": "tYES"
+    }
+  ]
+}
