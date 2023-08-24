@@ -1,0 +1,115 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ProfitCenters",
+  "value": [
+    {
+      "CenterCode": "Centr_z",
+      "CenterName": "Centro de custos geral",
+      "GroupCode": null,
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tNO",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "Centr_z2",
+      "CenterName": "Centro geral 2",
+      "GroupCode": null,
+      "InWhichDimension": 2,
+      "CostCenterType": null,
+      "EffectiveFrom": "1900-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "Centr_z3",
+      "CenterName": "Centro geral 3",
+      "GroupCode": null,
+      "InWhichDimension": 3,
+      "CostCenterType": null,
+      "EffectiveFrom": "1900-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "Centr_z4",
+      "CenterName": "Centro geral 4",
+      "GroupCode": null,
+      "InWhichDimension": 4,
+      "CostCenterType": null,
+      "EffectiveFrom": "1900-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "Centr_z5",
+      "CenterName": "Centro geral 5",
+      "GroupCode": null,
+      "InWhichDimension": 5,
+      "CostCenterType": null,
+      "EffectiveFrom": "1900-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "1014010",
+      "CenterName": "Financeiro",
+      "GroupCode": "4010",
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "1014020",
+      "CenterName": "Controladoria",
+      "GroupCode": "4020",
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "1014030",
+      "CenterName": "Técnologia da Informação",
+      "GroupCode": "4030",
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "1014040",
+      "CenterName": "Administrativo Matriz",
+      "GroupCode": "4040",
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    },
+    {
+      "CenterCode": "1014050",
+      "CenterName": "Gente & Gestão",
+      "GroupCode": "4050",
+      "InWhichDimension": 1,
+      "CostCenterType": null,
+      "EffectiveFrom": "2022-01-01T00:00:00Z",
+      "EffectiveTo": null,
+      "Active": "tYES",
+      "CenterOwner": null
+    }
+  ]
+}

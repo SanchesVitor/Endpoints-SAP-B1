@@ -1,0 +1,29 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Projects",
+  "value": [
+    {
+      "Code": "PDVOne",
+      "Name": "PDVOne",
+      "ValidFrom": null,
+      "ValidTo": null,
+      "Active": "tYES",
+      "U_OcrCode": null,
+      "U_OcrCode2": null,
+      "U_OcrCode3": null,
+      "U_OcrCode4": null,
+      "U_OcrCode5": null
+    },
+    {
+      "Code": "P99810",
+      "Name": "Loja",
+      "ValidFrom": null,
+      "ValidTo": null,
+      "Active": "tYES",
+      "U_OcrCode": null,
+      "U_OcrCode2": null,
+      "U_OcrCode3": null,
+      "U_OcrCode4": null,
+      "U_OcrCode5": null
+    }
+  ]
+}

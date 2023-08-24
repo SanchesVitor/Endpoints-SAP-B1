@@ -1,0 +1,55 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#PredefinedTexts",
+  "value": [
+    {
+      "Numerator": 411,
+      "TextCode": "TRIB. ALIQ. DIF.",
+      "Text": "OPERAÇÃO  TRIBUTÁVEL ALIQUOTA DIFERENCIADA"
+    },
+    {
+      "Numerator": 15,
+      "TextCode": "AQ. ALIQUOTA ZERO",
+      "Text": "OPERACA DE AQUISICAO A ALIQUOTA ZERO"
+    },
+    {
+      "Numerator": 16,
+      "TextCode": "AQ. COM SUSPENSAO",
+      "Text": "Operação de Aquisição com Suspensão"
+    },
+    {
+      "Numerator": 17,
+      "TextCode": "AQ.S. DIREITO CRED.",
+      "Text": "OPERACAO DE AQUISICAO SEM DIREITO A CREDITO"
+    },
+    {
+      "Numerator": 18,
+      "TextCode": "SUSP. CONTRIBUICAO",
+      "Text": "SUSPENSÃO PIS/COFINS CONF. ART. 29 DA LEI 12.865/2013"
+    },
+    {
+      "Numerator": 19,
+      "TextCode": "C.P. REC INT/EXP",
+      "Text": "OPERAÇÃO AQUISIÇÃO DE AMENDOIM COM CRÉDITO PRESUMIDO"
+    },
+    {
+      "Numerator": 30,
+      "TextCode": "C.PRESUMIDO - ART. 2",
+      "Text": "CREDITO PRESUMIDO CONF. ANEXO III ART 2 DECRETO 45.490 RICMS/00."
+    },
+    {
+      "Numerator": 31,
+      "TextCode": "C.P. - OUTRAS",
+      "Text": "CREDITO PRESUMIDO - OUTRAS OPERACOES"
+    },
+    {
+      "Numerator": 32,
+      "TextCode": "DIFERIDO",
+      "Text": "CONF.  INCISO II DO ARTIGO 350 RICMS,DECRETO 46501"
+    },
+    {
+      "Numerator": 33,
+      "TextCode": "DIFERIMENTO - MG",
+      "Text": "ART. 8º PARTE 1 DO ANEXO II RICMS/2002"
+    }
+  ]
+}

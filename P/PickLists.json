@@ -1,0 +1,274 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#PickLists",
+  "value": [
+    {
+      "Absoluteentry": 2,
+      "Name": "manager",
+      "OwnerCode": 1,
+      "OwnerName": null,
+      "PickDate": "2023-04-25T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 2,
+          "LineNumber": 0,
+          "OrderEntry": 32,
+          "OrderRowID": 0,
+          "PickedQuantity": 0.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 1.0,
+          "PreviouslyReleasedQuantity": 1.0,
+          "BaseObjectType": 17,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 4,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-04-26T00:00:00Z",
+      "Remarks": "",
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 4,
+          "LineNumber": 0,
+          "OrderEntry": 35,
+          "OrderRowID": 0,
+          "PickedQuantity": 1.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 1.0,
+          "BaseObjectType": 17,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 6,
+      "Name": "manager",
+      "OwnerCode": 1,
+      "OwnerName": null,
+      "PickDate": "2023-05-03T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": []
+    },
+    {
+      "Absoluteentry": 8,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-13T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Released",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 8,
+          "LineNumber": 0,
+          "OrderEntry": 252,
+          "OrderRowID": 0,
+          "PickedQuantity": 0.0,
+          "PickStatus": "ps_Released",
+          "ReleasedQuantity": 30000.0,
+          "PreviouslyReleasedQuantity": 30000.0,
+          "BaseObjectType": 17,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 9,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-13T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 9,
+          "LineNumber": 0,
+          "OrderEntry": 50,
+          "OrderRowID": 0,
+          "PickedQuantity": 5000.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 5000.0,
+          "BaseObjectType": 1250000001,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 10,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-13T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 10,
+          "LineNumber": 0,
+          "OrderEntry": 51,
+          "OrderRowID": 0,
+          "PickedQuantity": 0.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 5000.0,
+          "PreviouslyReleasedQuantity": 5000.0,
+          "BaseObjectType": 1250000001,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 11,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-13T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Released",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 11,
+          "LineNumber": 0,
+          "OrderEntry": 52,
+          "OrderRowID": 0,
+          "PickedQuantity": 0.0,
+          "PickStatus": "ps_Released",
+          "ReleasedQuantity": 5000.0,
+          "PreviouslyReleasedQuantity": 5000.0,
+          "BaseObjectType": 1250000001,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 13,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-22T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 13,
+          "LineNumber": 0,
+          "OrderEntry": 435,
+          "OrderRowID": 0,
+          "PickedQuantity": 2.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 2.0,
+          "BaseObjectType": 13,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 14,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-22T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 14,
+          "LineNumber": 0,
+          "OrderEntry": 435,
+          "OrderRowID": 0,
+          "PickedQuantity": 3.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 3.0,
+          "BaseObjectType": 13,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        },
+        {
+          "AbsoluteEntry": 14,
+          "LineNumber": 1,
+          "OrderEntry": 435,
+          "OrderRowID": 1,
+          "PickedQuantity": 2.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 2.0,
+          "BaseObjectType": 13,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    },
+    {
+      "Absoluteentry": 15,
+      "Name": "Patrick Santos - K33P",
+      "OwnerCode": 8,
+      "OwnerName": null,
+      "PickDate": "2023-07-22T00:00:00Z",
+      "Remarks": null,
+      "Status": "ps_Closed",
+      "ObjectType": "156",
+      "UseBaseUnits": "tNO",
+      "PickListsLines": [
+        {
+          "AbsoluteEntry": 15,
+          "LineNumber": 0,
+          "OrderEntry": 435,
+          "OrderRowID": 1,
+          "PickedQuantity": 2.0,
+          "PickStatus": "ps_Closed",
+          "ReleasedQuantity": 0.0,
+          "PreviouslyReleasedQuantity": 2.0,
+          "BaseObjectType": 13,
+          "SerialNumbers": [],
+          "BatchNumbers": [],
+          "DocumentLinesBinAllocations": []
+        }
+      ]
+    }
+  ]
+}
