@@ -1,0 +1,15 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#RetornoCodes",
+  "value": [
+    {
+      "AbsEntry": 1,
+      "OccurenceCode": null,
+      "MovementCode": null,
+      "BoeStatus": null,
+      "Description": null,
+      "Color": null,
+      "FileFormat": "5",
+      "BankCode": "000"
+    }
+  ]
+}

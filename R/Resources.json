@@ -1,0 +1,6040 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Resources",
+  "value": [
+    {
+      "Code": "MAQ001",
+      "VisCode": "MAQ001",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "Forno 1",
+      "ForeignName": null,
+      "Type": "rtMachine",
+      "Group": 3,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.0,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.0,
+      "Cost6": 0.0,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.0,
+      "Cost10": 0.0,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": null,
+      "U_K33PResType": "-",
+      "U_F2NQResType": "-",
+      "ResourceWarehouses": [
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MAQ001",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MAQ001",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "GGF001",
+      "VisCode": "GGF001",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "Rateio de Energia Eletrica",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 2,
+      "UnitOfMeasure": "Tx/Kg",
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.14,
+      "Cost2": 0.0,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.0,
+      "Cost6": 0.0,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.0,
+      "Cost10": 0.0,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": null,
+      "U_K33PResType": "-",
+      "U_F2NQResType": "-",
+      "ResourceWarehouses": [
+        {
+          "Code": "GGF001",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "GGF001",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "GGF001",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "MP-AMENDOIM-UG1",
+      "VisCode": "MP-AMENDOIM-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "MATERIA PRIMA - AMENDOIM - UG1",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 5,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.01319,
+      "Cost3": 0.06149,
+      "Cost4": 0.00058,
+      "Cost5": 0.00051,
+      "Cost6": 0.01116,
+      "Cost7": 0.00197,
+      "Cost8": 0.06873,
+      "Cost9": 0.18741,
+      "Cost10": 0.0324,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105010",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MP-AMENDOIM-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+      "VisCode": "MOI-ARMAZENAGEM-CASCA-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "ARMAZENAGEM CASCA UG1",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 2,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.01419,
+      "Cost3": 0.01938,
+      "Cost4": 0.03631,
+      "Cost5": 0.0,
+      "Cost6": 0.00235,
+      "Cost7": 0.0,
+      "Cost8": 0.00566,
+      "Cost9": 0.10277,
+      "Cost10": 0.01777,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105020",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Warehouse": "42-EVDAR",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-CASCA-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "MOI-ARMAZENAGEM-PA-UG1",
+      "VisCode": "MOI-ARMAZENAGEM-PA-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "ARMAZENAGEM PA UG1",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 2,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.02035,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.0,
+      "Cost6": 0.0,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.02066,
+      "Cost10": 0.00357,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105030",
+      "U_K33PResType": "-",
+      "U_F2NQResType": "-",
+      "ResourceWarehouses": [
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Warehouse": "42-EVDAR",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-ARMAZENAGEM-PA-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "PA-IN NATURA-UG1",
+      "VisCode": "PA-IN NATURA-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "PRODUTOS ACABADOS - AMENDOIM IN NATURA",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 5,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.03119,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.00335,
+      "Cost6": 0.02741,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.09635,
+      "Cost10": 0.01666,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105040",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-IN NATURA-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "PA-BLANCHEADO-UG1",
+      "VisCode": "PA-BLANCHEADO-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "PRODUTOS ACABADOS - AMENDOIM BLANCHEADO",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 5,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.02703,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.00096,
+      "Cost6": 0.00967,
+      "Cost7": 0.0,
+      "Cost8": 0.0175,
+      "Cost9": 0.11411,
+      "Cost10": 0.01973,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105050",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-BLANCHEADO-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "MOI-QUALIDADE-UG1",
+      "VisCode": "MOI-QUALIDADE-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "QUALIDADE UG1",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 2,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.02448,
+      "Cost3": 0.00804,
+      "Cost4": 0.00067,
+      "Cost5": 0.00022,
+      "Cost6": 0.0,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.06503,
+      "Cost10": 0.01124,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105070",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-QUALIDADE-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "MOI-PCP-UG1",
+      "VisCode": "MOI-PCP-UG1",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "PCP UG1",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 2,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.00514,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.0,
+      "Cost6": 0.0,
+      "Cost7": 0.0,
+      "Cost8": 0.0,
+      "Cost9": 0.00525,
+      "Cost10": 0.00091,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1105090",
+      "U_K33PResType": "-",
+      "U_F2NQResType": "-",
+      "ResourceWarehouses": [
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Warehouse": "42-EVDAR",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "MOI-PCP-UG1",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    },
+    {
+      "Code": "PA-SEMIELABORADO-F26",
+      "VisCode": "PA-SEMIELABORADO-F26",
+      "Series": 37,
+      "Number": null,
+      "CodeBar": null,
+      "Name": "PRODUTOS ACABADOS - AMENDOIM SEMIELABORADO",
+      "ForeignName": null,
+      "Type": "rtOther",
+      "Group": 5,
+      "UnitOfMeasure": null,
+      "IssueMethod": "rimBackflush",
+      "Cost1": 0.0,
+      "Cost2": 0.04185,
+      "Cost3": 0.0,
+      "Cost4": 0.0,
+      "Cost5": 0.00048,
+      "Cost6": 0.00588,
+      "Cost7": 0.0,
+      "Cost8": 0.00508,
+      "Cost9": 0.15112,
+      "Cost10": 0.04846,
+      "Active": "tYES",
+      "ActiveFrom": null,
+      "ActiveTo": null,
+      "Inactive": "tNO",
+      "InactiveFrom": null,
+      "InactiveTo": null,
+      "DefaultWarehouse": null,
+      "Picture": null,
+      "Remarks": null,
+      "Property1": "tNO",
+      "Property2": "tNO",
+      "Property3": "tNO",
+      "Property4": "tNO",
+      "Property5": "tNO",
+      "Property6": "tNO",
+      "Property7": "tNO",
+      "Property8": "tNO",
+      "Property9": "tNO",
+      "Property10": "tNO",
+      "Property11": "tNO",
+      "Property12": "tNO",
+      "Property13": "tNO",
+      "Property14": "tNO",
+      "Property15": "tNO",
+      "Property16": "tNO",
+      "Property17": "tNO",
+      "Property18": "tNO",
+      "Property19": "tNO",
+      "Property20": "tNO",
+      "Property21": "tNO",
+      "Property22": "tNO",
+      "Property23": "tNO",
+      "Property24": "tNO",
+      "Property25": "tNO",
+      "Property26": "tNO",
+      "Property27": "tNO",
+      "Property28": "tNO",
+      "Property29": "tNO",
+      "Property30": "tNO",
+      "Property31": "tNO",
+      "Property32": "tNO",
+      "Property33": "tNO",
+      "Property34": "tNO",
+      "Property35": "tNO",
+      "Property36": "tNO",
+      "Property37": "tNO",
+      "Property38": "tNO",
+      "Property39": "tNO",
+      "Property40": "tNO",
+      "Property41": "tNO",
+      "Property42": "tNO",
+      "Property43": "tNO",
+      "Property44": "tNO",
+      "Property45": "tNO",
+      "Property46": "tNO",
+      "Property47": "tNO",
+      "Property48": "tNO",
+      "Property49": "tNO",
+      "Property50": "tNO",
+      "Property51": "tNO",
+      "Property52": "tNO",
+      "Property53": "tNO",
+      "Property54": "tNO",
+      "Property55": "tNO",
+      "Property56": "tNO",
+      "Property57": "tNO",
+      "Property58": "tNO",
+      "Property59": "tNO",
+      "Property60": "tNO",
+      "Property61": "tNO",
+      "Property62": "tNO",
+      "Property63": "tNO",
+      "Property64": "tNO",
+      "ActiveRemarks": null,
+      "InactiveRemarks": null,
+      "AttachmentEntry": null,
+      "UnitsPerTime": 1,
+      "TimePerUnits": null,
+      "Allocation": "raOnStartDate",
+      "LinkedItem": null,
+      "RelevantForSingleRun1": "tYES",
+      "RelevantForSingleRun2": "tYES",
+      "RelevantForSingleRun3": "tYES",
+      "RelevantForSingleRun4": "tYES",
+      "U_K33P_ProfitCode": "1265060",
+      "U_K33PResType": "P",
+      "U_F2NQResType": "P",
+      "ResourceWarehouses": [
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARMEC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-ARMTC",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-DPFER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-DPFUP",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-DPHER",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "01-DPVIR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "03-DPPCA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "08-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "09-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ALM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ALM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ALM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM07",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-ARM08",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-B.BAG",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-CQ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-CQ02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-DPDIV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-DPEM1",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-DPEM2",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-FUM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-FUM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-FUM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-FUM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-PRBLA",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-PRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-PREXT",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-PRQUE",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-PRVAR",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-VRBL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "10-VRDEB",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "14-DPDEV",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "14-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "18-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "21-DPV01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "21-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "24-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "26-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "26-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "26-PRPAS",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "26-PRSEL",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "27-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "28-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "29-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "30-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM04",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM05",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "33-ARM06",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "34-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "35-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "36-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "37-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "38-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "38-ARM02",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "38-ARM03",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "39-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "40-DPIBI",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "40-LOJ01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "41-ARM01",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "41-ARSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "41-PRSEM",
+          "Locked": "tNO"
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Warehouse": "42-ARM01",
+          "Locked": "tNO"
+        }
+      ],
+      "ResourceFixedAssets": [],
+      "ResourceEmployees": [],
+      "ResourceDailyCapacities": [
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwFirst",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwSecond",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwThird",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwFourth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwFifth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwSixth",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        },
+        {
+          "Code": "PA-SEMIELABORADO-F26",
+          "Weekday": "rdcwSeventh",
+          "Factor1": null,
+          "Factor2": null,
+          "Factor3": null,
+          "Factor4": null,
+          "Total": null,
+          "Remarks": null,
+          "SingleRun": null
+        }
+      ]
+    }
+  ]
+}

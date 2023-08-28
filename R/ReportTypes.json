@@ -1,0 +1,85 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ReportTypes",
+  "value": [
+    {
+      "TypeCode": "ACB1",
+      "TypeName": "Saldo da conta",
+      "DefaultReportLayout": "ACB10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ACD1",
+      "TypeName": "Nota de crédito de incorporação",
+      "DefaultReportLayout": "ACD10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ACQ1",
+      "TypeName": "Capitalização",
+      "DefaultReportLayout": "ACQ10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ACT1",
+      "TypeName": "Índice de contas",
+      "DefaultReportLayout": "ACT10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ACT2",
+      "TypeName": "Índice de contas do Razão e de PNs",
+      "DefaultReportLayout": "ACT20001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ADF1",
+      "TypeName": "Diferenças do valor",
+      "DefaultReportLayout": "ADF10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "ADV1",
+      "TypeName": "Relatório de adiantamentos de IRPJ sobre faturamento",
+      "DefaultReportLayout": "ADV10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "AGE1",
+      "TypeName": "Vencimento C/R parceiro de negócios - resumo",
+      "DefaultReportLayout": "AGE10001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "AGE2",
+      "TypeName": "Vencimento C/R parceiro de negócios - detalhes",
+      "DefaultReportLayout": "AGE20001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    },
+    {
+      "TypeCode": "AGE3",
+      "TypeName": "Relatório de cobrança",
+      "DefaultReportLayout": "AGE30001",
+      "AddonName": null,
+      "AddonFormType": null,
+      "MenuID": null
+    }
+  ]
+}

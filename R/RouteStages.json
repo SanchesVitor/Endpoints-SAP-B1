@@ -1,0 +1,13 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#RouteStages",
+  "value": [
+    {
+      "InternalNumber": 1,
+      "Code": "01",
+      "Description": "VIRAÇÃO",
+      "CreationDate": "2023-08-22T00:00:00Z",
+      "GenerationTime": "14:42:00",
+      "DateOfUpdate": "2023-08-22T00:00:00Z"
+    }
+  ]
+}

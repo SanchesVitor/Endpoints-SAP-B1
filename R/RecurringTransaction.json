@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": "200",
+    "details": [
+      {
+        "code": "",
+        "message": ""
+      }
+    ],
+    "message": "Unrecognized resource path."
+  }
+}
