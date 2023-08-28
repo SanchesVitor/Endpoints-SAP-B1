@@ -1,0 +1,12 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#Territories",
+  "value": [
+    {
+      "TerritoryID": -2,
+      "Description": "-Nenhum território-",
+      "LocationIndex": -1,
+      "Inactive": "tNO",
+      "Parent": -1
+    }
+  ]
+}
