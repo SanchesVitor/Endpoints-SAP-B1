@@ -1,0 +1,491 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#QueryAuthGroups",
+  "value": [
+    {
+      "AuthGroupCode": "Grupo1",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo1",
+      "AuthGroupId": -15,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -15,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 19
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 22
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 23
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 29
+        },
+        {
+          "AuthGroupId": -15,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo2",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo2",
+      "AuthGroupId": -14,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -14,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -14,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo3",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo3",
+      "AuthGroupId": -13,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -13,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -13,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo4",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo4",
+      "AuthGroupId": -12,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -12,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -12,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo5",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo5",
+      "AuthGroupId": -11,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -11,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -11,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo6",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo6",
+      "AuthGroupId": -10,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -10,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -10,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo7",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo7",
+      "AuthGroupId": -9,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -9,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -9,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo8",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo8",
+      "AuthGroupId": -8,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -8,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -8,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo9",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo9",
+      "AuthGroupId": -7,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -7,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -7,
+          "CategoryId": 30
+        }
+      ]
+    },
+    {
+      "AuthGroupCode": "Grupo10",
+      "AuthGroupDes": "Consultas gravadas - nº do grupo10",
+      "AuthGroupId": -6,
+      "CategoryGroupCollection": [
+        {
+          "AuthGroupId": -6,
+          "CategoryId": -2
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": -1
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 18
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 20
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 21
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 24
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 25
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 26
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 27
+        },
+        {
+          "AuthGroupId": -6,
+          "CategoryId": 30
+        }
+      ]
+    }
+  ]
+}

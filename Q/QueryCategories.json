@@ -1,0 +1,55 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#QueryCategories",
+  "value": [
+    {
+      "Code": -2,
+      "Name": "Sistema",
+      "Permissions": "YYYYYYYYYYYYYYY"
+    },
+    {
+      "Code": -1,
+      "Name": "Geral",
+      "Permissions": "YYYYYYYYYYYYYYY"
+    },
+    {
+      "Code": 1,
+      "Name": "KPI_MOBILE",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 2,
+      "Name": "SAP_DASHBOARD_001_DAB001_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 3,
+      "Name": "SAP_DASHBOARD_001_DAB002_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 4,
+      "Name": "SAP_DASHBOARD_001_DAB003_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 5,
+      "Name": "SAP_DASHBOARD_001_DAB004_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 6,
+      "Name": "SAP_DASHBOARD_001_DAB006_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 7,
+      "Name": "SAP_DASHBOARD_001_DAB012_QUERY",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    },
+    {
+      "Code": 8,
+      "Name": "KPI_MOBILE_HANA",
+      "Permissions": "NNNNNNNNNNNNNNN"
+    }
+  ]
+}
