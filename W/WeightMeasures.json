@@ -1,0 +1,35 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#WeightMeasures",
+  "value": [
+    {
+      "UnitCode": 1,
+      "UnitDisplay": "mg",
+      "UnitName": "Miligrama",
+      "UnitWeightinmg": 1.0
+    },
+    {
+      "UnitCode": 2,
+      "UnitDisplay": "g",
+      "UnitName": "Grama",
+      "UnitWeightinmg": 1000.0
+    },
+    {
+      "UnitCode": 3,
+      "UnitDisplay": "kg",
+      "UnitName": "Quilograma",
+      "UnitWeightinmg": 1000000.0
+    },
+    {
+      "UnitCode": 4,
+      "UnitDisplay": "Oz",
+      "UnitName": "Onça",
+      "UnitWeightinmg": 28300.0
+    },
+    {
+      "UnitCode": 5,
+      "UnitDisplay": "Lb",
+      "UnitName": "Libra",
+      "UnitWeightinmg": 453592.4
+    }
+  ]
+}

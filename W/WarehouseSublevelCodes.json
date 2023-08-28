@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#WarehouseSublevelCodes",
+  "value": [
+    {
+      "WarehouseSublevel": 1,
+      "Code": "SYSTEM-BIN-LOCATION",
+      "Description": null,
+      "AbsEntry": 1
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-001",
+      "Description": "DRIVE-001",
+      "AbsEntry": 2
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-002",
+      "Description": "DRIVE-002",
+      "AbsEntry": 3
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-036",
+      "Description": "DRIVE-036",
+      "AbsEntry": 4
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-037",
+      "Description": "DRIVE-037",
+      "AbsEntry": 5
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-003",
+      "Description": null,
+      "AbsEntry": 8
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-004",
+      "Description": null,
+      "AbsEntry": 9
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-005",
+      "Description": null,
+      "AbsEntry": 10
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-006",
+      "Description": null,
+      "AbsEntry": 11
+    },
+    {
+      "WarehouseSublevel": 1,
+      "Code": "DRIVE-007",
+      "Description": null,
+      "AbsEntry": 12
+    }
+  ]
+}
