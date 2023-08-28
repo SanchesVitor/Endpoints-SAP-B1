@@ -1,0 +1,11 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#SalesOpportunityCompetitorsSetup",
+  "value": [
+    {
+      "SequenceNo": 1,
+      "Name": "TREINAMENTO",
+      "ThreatLevel": "tlLow",
+      "Details": "TREINAMENTO"
+    }
+  ]
+}

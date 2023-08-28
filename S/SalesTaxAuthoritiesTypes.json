@@ -1,0 +1,75 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#SalesTaxAuthoritiesTypes",
+  "value": [
+    {
+      "UserSignature": 1,
+      "Name": "ICMS",
+      "VAT": "tNO",
+      "Numerator": 10,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "ICMS-IMP",
+      "VAT": "tNO",
+      "Numerator": 11,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "ICMS-DIF",
+      "VAT": "tNO",
+      "Numerator": 12,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "ICMS-ST-ALIQ",
+      "VAT": "tNO",
+      "Numerator": 13,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "ICMS-ST-PAUT",
+      "VAT": "tNO",
+      "Numerator": 14,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "ICMS-ST-COMP",
+      "VAT": "tNO",
+      "Numerator": 15,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "IPI",
+      "VAT": "tNO",
+      "Numerator": 16,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "IPI-IMP",
+      "VAT": "tNO",
+      "Numerator": 17,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "IPI-PAUT",
+      "VAT": "tNO",
+      "Numerator": 18,
+      "TaxCreditControl": "tNO"
+    },
+    {
+      "UserSignature": 1,
+      "Name": "PIS",
+      "VAT": "tNO",
+      "Numerator": 19,
+      "TaxCreditControl": "tNO"
+    }
+  ]
+}

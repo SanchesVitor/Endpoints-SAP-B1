@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#StockTakings",
+  "value": [
+    {
+      "ItemCode": "EM000000004",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008161",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008162",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008163",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008164",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008165",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "EM000000004",
+      "WarehouseCode": "01-ARM01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008167",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008168",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    },
+    {
+      "ItemCode": "LO000008169",
+      "WarehouseCode": "01",
+      "Counted": 0.0,
+      "U_PDV_CUSTO_FORMADO": null
+    }
+  ]
+}

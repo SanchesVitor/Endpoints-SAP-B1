@@ -1,0 +1,75 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#States",
+  "value": [
+    {
+      "Code": "AC",
+      "Country": "BR",
+      "Name": "Acre",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "AL",
+      "Country": "BR",
+      "Name": "Alagoas",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "AM",
+      "Country": "BR",
+      "Name": "Amazonas",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "AP",
+      "Country": "BR",
+      "Name": "Amapá",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "BA",
+      "Country": "BR",
+      "Name": "Bahia",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "CE",
+      "Country": "BR",
+      "Name": "Ceará",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "DF",
+      "Country": "BR",
+      "Name": "Distrito Federal",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "ES",
+      "Country": "BR",
+      "Name": "Espírito Santo",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "GO",
+      "Country": "BR",
+      "Name": "Goiás",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    },
+    {
+      "Code": "MA",
+      "Country": "BR",
+      "Name": "Maranhão",
+      "GSTCode": null,
+      "IsUnionTerritory": "tNO"
+    }
+  ]
+}

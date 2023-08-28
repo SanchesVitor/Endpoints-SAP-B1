@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ServiceCallStatus",
+  "value": [
+    {
+      "StatusId": -3,
+      "Name": "Aberto",
+      "Description": "Em processamento",
+      "Active": "tYES"
+    },
+    {
+      "StatusId": -2,
+      "Name": "Pendente",
+      "Description": "Pendente",
+      "Active": "tYES"
+    },
+    {
+      "StatusId": -1,
+      "Name": "Fechado",
+      "Description": "Fechado",
+      "Active": "tYES"
+    }
+  ]
+}

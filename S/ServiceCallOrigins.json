@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ServiceCallOrigins",
+  "value": [
+    {
+      "OriginID": -3,
+      "Name": "E-mail",
+      "Description": "Mensagem de e-mail",
+      "Active": "tYES"
+    },
+    {
+      "OriginID": -2,
+      "Name": "Nº de telefone",
+      "Description": "Telefonema",
+      "Active": "tYES"
+    },
+    {
+      "OriginID": -1,
+      "Name": "Web",
+      "Description": "Site da Web de",
+      "Active": "tYES"
+    }
+  ]
+}

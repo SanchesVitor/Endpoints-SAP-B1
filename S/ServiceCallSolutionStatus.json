@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#ServiceCallSolutionStatus",
+  "value": [
+    {
+      "StatusId": -3,
+      "Name": "Em revisão",
+      "Description": "Descrição da revisão",
+      "Active": "tYES"
+    },
+    {
+      "StatusId": -2,
+      "Name": "Interno",
+      "Description": "Descrição interna",
+      "Active": "tYES"
+    },
+    {
+      "StatusId": -1,
+      "Name": "Publicado",
+      "Description": "Descrição do status publicado",
+      "Active": "tYES"
+    }
+  ]
+}

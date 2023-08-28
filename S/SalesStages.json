@@ -1,0 +1,14 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#SalesStages",
+  "value": [
+    {
+      "SequenceNo": 1,
+      "Name": "TESTE",
+      "Stageno": 1,
+      "ClosingPercentage": 20.0,
+      "Cancelled": "tNO",
+      "IsSales": "tYES",
+      "IsPurchasing": "tYES"
+    }
+  ]
+}

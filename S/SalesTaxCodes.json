@@ -1,0 +1,505 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#SalesTaxCodes",
+  "value": [
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 37.25,
+      "Name": "1101/5201 - ICMS 18% BT - IPI 10% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1101-001",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-001",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-001",
+          "STAType": 16,
+          "STACode": "IP10BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 10.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-001",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-001",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 37.25,
+      "Name": "1101/5201 - ICMS 18% BR - IPI 10% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1101-002",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-002",
+          "STAType": 10,
+          "STACode": "IC18BR01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-002",
+          "STAType": 16,
+          "STACode": "IP10BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 10.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-002",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-002",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 9.25,
+      "Name": "1101/5201 - ICMS 00% BI - IPI 00% BI - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1101-003",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-003",
+          "STAType": 10,
+          "STACode": "IC00BI01",
+          "RowNumber": 0,
+          "EffectiveRate": 0.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-003",
+          "STAType": 16,
+          "STACode": "IP00BI01",
+          "RowNumber": 1,
+          "EffectiveRate": 0.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-003",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-003",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 9.25,
+      "Name": "1101/5201 - ICMS 00% BI - IPI 00% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1101-004",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-004",
+          "STAType": 10,
+          "STACode": "IC00BI01",
+          "RowNumber": 0,
+          "EffectiveRate": 0.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-004",
+          "STAType": 16,
+          "STACode": "IP00BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 0.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-004",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-004",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 42.25,
+      "Name": "1101/5201 - ICMS 18% BT - IPI 15% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1101-005",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-005",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-005",
+          "STAType": 16,
+          "STACode": "IP15BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 15.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-005",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1101-005",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 27.25,
+      "Name": "1102/5202 - ICMS 18% BT - IPI 00% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1102-001",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-001",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-001",
+          "STAType": 16,
+          "STACode": "IP00BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 0.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-001",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-001",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 32.25,
+      "Name": "1102/5202 - ICMS 18% BT - IPI 05% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1102-002",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-002",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-002",
+          "STAType": 16,
+          "STACode": "IP05BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 5.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-002",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-002",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 37.25,
+      "Name": "1102/5202 - ICMS 18% BT - IPI 10% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1102-003",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-003",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-003",
+          "STAType": 16,
+          "STACode": "IP10BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 10.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-003",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-003",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 42.25,
+      "Name": "1102/5202 - ICMS 18% BT - IPI 15% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1102-004",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-004",
+          "STAType": 10,
+          "STACode": "IC18BT01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-004",
+          "STAType": 16,
+          "STACode": "IP15BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 15.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-004",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-004",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    },
+    {
+      "ValidForAR": "tYES",
+      "ValidForAP": "tYES",
+      "UserSignature": 1,
+      "Rate": 47.25,
+      "Name": "1102/5202 - ICMS 18% BR - IPI 20% BT - PIS 1,65% BT - COFINS 7,60% BT",
+      "Freight": "tYES",
+      "Code": "1102-005",
+      "IsItemLevel": "tNO",
+      "Inactive": "tNO",
+      "FADebit": "tNO",
+      "SalesTaxCodes_Lines": [
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-005",
+          "STAType": 10,
+          "STACode": "IC18BR01",
+          "RowNumber": 0,
+          "EffectiveRate": 18.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-005",
+          "STAType": 16,
+          "STACode": "IP20BT01",
+          "RowNumber": 1,
+          "EffectiveRate": 20.0
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-005",
+          "STAType": 19,
+          "STACode": "PI16BT01",
+          "RowNumber": 2,
+          "EffectiveRate": 1.65
+        },
+        {
+          "STATaxOnTaxType": null,
+          "STATaxonTaxCode": null,
+          "STCCode": "1102-005",
+          "STAType": 21,
+          "STACode": "CF76BT01",
+          "RowNumber": 3,
+          "EffectiveRate": 7.6
+        }
+      ]
+    }
+  ]
+}
