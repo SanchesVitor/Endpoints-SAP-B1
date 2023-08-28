@@ -1,0 +1,121 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UserPermissionTree",
+  "value": [
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 1,
+      "PermissionID": "Menu",
+      "Options": "bou_FullReadNone",
+      "Name": "menu",
+      "Levels": 1,
+      "IsItem": "tNO",
+      "ParentID": "",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 2,
+      "PermissionID": "oi",
+      "Options": "bou_FullReadNone",
+      "Name": "Budget",
+      "Levels": 2,
+      "IsItem": "tNO",
+      "ParentID": "Menu",
+      "UserPermissionForms": [
+        {
+          "FormType": "452",
+          "DisplayOrder": 1,
+          "PermissionID": "oi"
+        }
+      ]
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 3,
+      "PermissionID": "IvOn",
+      "Options": "bou_FullNone",
+      "Name": "Nota Fiscal Eletrônica 4.00",
+      "Levels": 1,
+      "IsItem": "tNO",
+      "ParentID": "",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 4,
+      "PermissionID": "IvOn_FU",
+      "Options": "bou_FullNone",
+      "Name": "Acompanhamento de Documentos (Follow-Up)",
+      "Levels": 2,
+      "IsItem": "tNO",
+      "ParentID": "IvOn",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 5,
+      "PermissionID": "IvOn_FU_CS",
+      "Options": "bou_FullNone",
+      "Name": "Primitir alterar Status de Processos.",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 6,
+      "PermissionID": "IvOn_FU_UR",
+      "Options": "bou_FullNone",
+      "Name": "Permitir retransmissão de Documentos.",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 7,
+      "PermissionID": "IvOn_FU_Xml",
+      "Options": "bou_FullNone",
+      "Name": "Permitir visualizar o Xml.",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 8,
+      "PermissionID": "IvOn_FU_CL",
+      "Options": "bou_FullNone",
+      "Name": "Permitir cancelar o documento.",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 9,
+      "PermissionID": "IvOn_FU_CB",
+      "Options": "bou_FullNone",
+      "Name": "Permitir Pedido de Estorno.",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    },
+    {
+      "UserSignature": 1,
+      "DisplayOrder": 10,
+      "PermissionID": "IvOn_FU_XmlCb",
+      "Options": "bou_FullNone",
+      "Name": "Permitir Visualizar xml de Estorno",
+      "Levels": 3,
+      "IsItem": "tNO",
+      "ParentID": "IvOn_FU",
+      "UserPermissionForms": []
+    }
+  ]
+}

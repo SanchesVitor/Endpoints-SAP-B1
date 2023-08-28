@@ -1,0 +1,21 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UnitOfMeasurementGroups",
+  "value": [
+    {
+      "AbsEntry": -1,
+      "Code": "Manual",
+      "Name": "Manual",
+      "BaseUoM": -1,
+      "UoMGroupDefinitionCollection": [
+        {
+          "AlternateUoM": -1,
+          "AlternateQuantity": 1.0,
+          "BaseQuantity": 1.0,
+          "WeightFactor": 0,
+          "UdfFactor": -1,
+          "Active": "tYES"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UserLanguages",
+  "value": [
+    {
+      "Code": 1,
+      "LanguageShortName": "HE",
+      "LanguageFullName": "Hebrew",
+      "RelatedSystemLanguage": 1
+    },
+    {
+      "Code": 3,
+      "LanguageShortName": "EN",
+      "LanguageFullName": "English",
+      "RelatedSystemLanguage": 3
+    },
+    {
+      "Code": 5,
+      "LanguageShortName": "PL",
+      "LanguageFullName": "Polish",
+      "RelatedSystemLanguage": 5
+    },
+    {
+      "Code": 8,
+      "LanguageShortName": "GB",
+      "LanguageFullName": "English (UK)",
+      "RelatedSystemLanguage": 8
+    },
+    {
+      "Code": 9,
+      "LanguageShortName": "DE",
+      "LanguageFullName": "German",
+      "RelatedSystemLanguage": 9
+    },
+    {
+      "Code": 11,
+      "LanguageShortName": "DK",
+      "LanguageFullName": "Danish",
+      "RelatedSystemLanguage": 11
+    },
+    {
+      "Code": 12,
+      "LanguageShortName": "NO",
+      "LanguageFullName": "Norwegian",
+      "RelatedSystemLanguage": 12
+    },
+    {
+      "Code": 13,
+      "LanguageShortName": "IT",
+      "LanguageFullName": "Italian",
+      "RelatedSystemLanguage": 13
+    },
+    {
+      "Code": 14,
+      "LanguageShortName": "HU",
+      "LanguageFullName": "Hungarian",
+      "RelatedSystemLanguage": 14
+    },
+    {
+      "Code": 15,
+      "LanguageShortName": "CN",
+      "LanguageFullName": "Simplified Chinese",
+      "RelatedSystemLanguage": 15
+    }
+  ]
+}

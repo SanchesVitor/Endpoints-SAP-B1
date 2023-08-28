@@ -1,0 +1,34 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UnitOfMeasurements",
+  "value": [
+    {
+      "AbsEntry": -1,
+      "Code": "Manual",
+      "Name": "Manual",
+      "Length1": 0.0,
+      "Length1Unit": null,
+      "Length2": 0.0,
+      "Length2Unit": null,
+      "Width1": 0.0,
+      "Width1Unit": null,
+      "Width2": 0.0,
+      "Width2Unit": null,
+      "Height1": 0.0,
+      "Height1Unit": null,
+      "Height2": 0.0,
+      "Height2Unit": null,
+      "Volume": 0.0,
+      "VolumeUnit": 4,
+      "Weight1": 0.0,
+      "Weight1Unit": null,
+      "Weight2": 0.0,
+      "Weight2Unit": null,
+      "InternationalSymbol": "Manual",
+      "EWBUnitEntry": null,
+      "PPWeight1": null,
+      "PPWe1Unit": null,
+      "PPWeight2": null,
+      "PPWe2Unit": null
+    }
+  ]
+}

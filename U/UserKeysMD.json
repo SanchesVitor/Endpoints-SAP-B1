@@ -1,0 +1,17 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UserKeysMD",
+  "value": [
+    {
+      "TableName": "@SEM_OBJECTO",
+      "KeyIndex": 0,
+      "KeyName": "IX_0",
+      "Unique": "tNO",
+      "UserKeysMD_Elements": [
+        {
+          "SubKeyIndex": 0,
+          "ColumnAlias": "Alfa"
+        }
+      ]
+    }
+  ]
+}

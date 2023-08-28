@@ -1,0 +1,95 @@
+{
+  "@odata.context": "https://144.22.206.113:50000/b1s/v2/$metadata#UserTablesMD",
+  "value": [
+    {
+      "TableName": "IN_DATAUSER",
+      "TableDescription": "INV: User Table Loggin",
+      "TableType": "bott_NoObject",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "IN_CCC",
+      "TableDescription": "INV: Hosted",
+      "TableType": "bott_NoObject",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_AGRONOMOS",
+      "TableDescription": "Lista de Agrônomos",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_SUBGRUPO_ITEM",
+      "TableDescription": "Subgrupo",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_VARIEDADE_ITEM",
+      "TableDescription": "Variedade",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_CATEGORIA_ITEM",
+      "TableDescription": "Categoria",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_PENEIRA_ITEM",
+      "TableDescription": "Peneira",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_LINHA_ITEM",
+      "TableDescription": "Linha",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_PRIN_ATIVO_ITEM",
+      "TableDescription": "Principio Ativo",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    },
+    {
+      "TableName": "K_CALIBRE_ITEM",
+      "TableDescription": "Calibre",
+      "TableType": "bott_MasterData",
+      "Archivable": "tNO",
+      "ArchiveDateField": null,
+      "DisplayMenu": "tYES",
+      "ApplyAuthorization": "tNO"
+    }
+  ]
+}
